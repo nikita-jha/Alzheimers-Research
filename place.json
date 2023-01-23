@@ -1,0 +1,6709 @@
+{
+  "000829b517fc66b2": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mamaroneck, NY",
+    "geo": {
+      "bbox": [
+        -73.772692,
+        40.919044,
+        -73.713636,
+        40.982365
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "000829b517fc66b2",
+    "name": null,
+    "place_type": "city"
+  },
+  "000b619e3fa2390b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ashburn, VA",
+    "geo": {
+      "bbox": [
+        -77.522803,
+        38.9882697,
+        -77.431408,
+        39.0740487
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "000b619e3fa2390b",
+    "name": null,
+    "place_type": "city"
+  },
+  "00119d346ce48d65": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Whitsett, NC",
+    "geo": {
+      "bbox": [
+        -79.610779,
+        36.060582,
+        -79.564204,
+        36.104459
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00119d346ce48d65",
+    "name": null,
+    "place_type": "city"
+  },
+  "0019a3ac7fd41a96": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lake Delton, WI",
+    "geo": {
+      "bbox": [
+        -89.8185605,
+        43.5756482,
+        -89.7560772,
+        43.6157284
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0019a3ac7fd41a96",
+    "name": null,
+    "place_type": "city"
+  },
+  "0019b30073d7f767": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Reisterstown, MD",
+    "geo": {
+      "bbox": [
+        -76.868425,
+        39.429282,
+        -76.778265,
+        39.559561
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0019b30073d7f767",
+    "name": null,
+    "place_type": "city"
+  },
+  "002e24c6736f069d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Bronx, NY",
+    "geo": {
+      "bbox": [
+        -73.933612,
+        40.785365,
+        -73.765271,
+        40.91533
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "002e24c6736f069d",
+    "name": null,
+    "place_type": "city"
+  },
+  "003d28304705c42a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mandeville, LA",
+    "geo": {
+      "bbox": [
+        -90.154712,
+        30.348341,
+        -90.003767,
+        30.459998
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "003d28304705c42a",
+    "name": null,
+    "place_type": "city"
+  },
+  "0041984014acb103": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Madison, MS",
+    "geo": {
+      "bbox": [
+        -90.205184,
+        32.426057,
+        -90.0621661,
+        32.522579
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0041984014acb103",
+    "name": null,
+    "place_type": "city"
+  },
+  "00427d4a5c4a1fc3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Missoula, MT",
+    "geo": {
+      "bbox": [
+        -114.1203252,
+        46.780202,
+        -113.941975,
+        46.977998
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00427d4a5c4a1fc3",
+    "name": null,
+    "place_type": "city"
+  },
+  "0046bfef79c8e224": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Rio Rancho, NM",
+    "geo": {
+      "bbox": [
+        -106.7576226,
+        35.217658,
+        -106.566425,
+        35.3747081
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0046bfef79c8e224",
+    "name": null,
+    "place_type": "city"
+  },
+  "004968f036f1ed8c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Wauregan, CT",
+    "geo": {
+      "bbox": [
+        -71.926701,
+        41.699383,
+        -71.892902,
+        41.762137
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "004968f036f1ed8c",
+    "name": null,
+    "place_type": "city"
+  },
+  "0052cdde03f2eadb": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lake Butler, FL",
+    "geo": {
+      "bbox": [
+        -81.611279,
+        28.424587,
+        -81.483386,
+        28.536837
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0052cdde03f2eadb",
+    "name": null,
+    "place_type": "city"
+  },
+  "005d61b22f3d85eb": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mount Laurel, NJ",
+    "geo": {
+      "bbox": [
+        -74.9442258,
+        39.916215,
+        -74.848485,
+        40.0003261
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "005d61b22f3d85eb",
+    "name": null,
+    "place_type": "city"
+  },
+  "006bbe08633392ba": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Desert Edge, CA",
+    "geo": {
+      "bbox": [
+        -116.458107,
+        33.910371,
+        -116.414382,
+        33.932522
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "006bbe08633392ba",
+    "name": null,
+    "place_type": "city"
+  },
+  "00717a9040f7caee": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "University Center, VA",
+    "geo": {
+      "bbox": [
+        -77.455491,
+        39.046188,
+        -77.431025,
+        39.071365
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00717a9040f7caee",
+    "name": null,
+    "place_type": "city"
+  },
+  "00a3ab692fda04dc": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ladera, CA",
+    "geo": {
+      "bbox": [
+        -122.2071436,
+        37.3932612,
+        -122.191388,
+        37.40573
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00a3ab692fda04dc",
+    "name": null,
+    "place_type": "city"
+  },
+  "00a4b217142e93d0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Andover, MA",
+    "geo": {
+      "bbox": [
+        -71.255046,
+        42.5982372,
+        -71.075953,
+        42.700233
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00a4b217142e93d0",
+    "name": null,
+    "place_type": "city"
+  },
+  "00ab941b685334e3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Nashville, TN",
+    "geo": {
+      "bbox": [
+        -87.022482,
+        35.9945681,
+        -86.560616,
+        36.405448
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00ab941b685334e3",
+    "name": null,
+    "place_type": "city"
+  },
+  "00b4365124f4f12f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Eagle River, AK",
+    "geo": {
+      "bbox": [
+        -149.588499,
+        61.292882,
+        -149.389215,
+        61.437371
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00b4365124f4f12f",
+    "name": null,
+    "place_type": "city"
+  },
+  "00b6a1c7611dcf24": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Connerton, FL",
+    "geo": {
+      "bbox": [
+        -82.520132,
+        28.251311,
+        -82.4412132,
+        28.324493
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00b6a1c7611dcf24",
+    "name": null,
+    "place_type": "city"
+  },
+  "00c39537733fa112": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Queens, NY",
+    "geo": {
+      "bbox": [
+        -73.962582,
+        40.541722,
+        -73.699793,
+        40.8000371
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00c39537733fa112",
+    "name": null,
+    "place_type": "city"
+  },
+  "00d73c6d35bf8b5a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Pittsfield, MI",
+    "geo": {
+      "bbox": [
+        -83.7850832,
+        42.142414,
+        -83.641471,
+        42.2594116
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00d73c6d35bf8b5a",
+    "name": null,
+    "place_type": "city"
+  },
+  "00f8c733400e497a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Broomfield, CO",
+    "geo": {
+      "bbox": [
+        -105.1472674,
+        39.894185,
+        -104.997195,
+        40.000314
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "00f8c733400e497a",
+    "name": null,
+    "place_type": "city"
+  },
+  "011add077f4d2da3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Brooklyn, NY",
+    "geo": {
+      "bbox": [
+        -74.041878,
+        40.570842,
+        -73.855673,
+        40.739434
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "011add077f4d2da3",
+    "name": null,
+    "place_type": "city"
+  },
+  "011ee6260843afea": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "North Andover, MA",
+    "geo": {
+      "bbox": [
+        -71.145979,
+        42.604079,
+        -71.03389,
+        42.741253
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "011ee6260843afea",
+    "name": null,
+    "place_type": "city"
+  },
+  "0120bba174ad6c8e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cherry Creek, CO",
+    "geo": {
+      "bbox": [
+        -104.883121,
+        39.5969877,
+        -104.847705,
+        39.6242572
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0120bba174ad6c8e",
+    "name": null,
+    "place_type": "city"
+  },
+  "0121b92345f0e2b4": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Miami Beach, FL",
+    "geo": {
+      "bbox": [
+        -80.147162,
+        25.7613083,
+        -80.1187628,
+        25.872623
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0121b92345f0e2b4",
+    "name": null,
+    "place_type": "city"
+  },
+  "012bca3721fb4c4e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cumberland, RI",
+    "geo": {
+      "bbox": [
+        -71.452348,
+        41.8932,
+        -71.381201,
+        42.0185171
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "012bca3721fb4c4e",
+    "name": null,
+    "place_type": "city"
+  },
+  "013e2fa93b1bd0be": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Savage, MD",
+    "geo": {
+      "bbox": [
+        -76.852175,
+        39.120076,
+        -76.776884,
+        39.179931
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "013e2fa93b1bd0be",
+    "name": null,
+    "place_type": "city"
+  },
+  "014734342ec54c17": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Williston, VT",
+    "geo": {
+      "bbox": [
+        -73.1399735,
+        44.4339436,
+        -73.056587,
+        44.4833374
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "014734342ec54c17",
+    "name": null,
+    "place_type": "city"
+  },
+  "014ee88e779fbf99": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Homer Glen, IL",
+    "geo": {
+      "bbox": [
+        -87.9789664,
+        41.5487496,
+        -87.909196,
+        41.6141448
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "014ee88e779fbf99",
+    "name": null,
+    "place_type": "city"
+  },
+  "0159b42c2f3f2207": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Little River, SC",
+    "geo": {
+      "bbox": [
+        -78.712564,
+        33.834265,
+        -78.581295,
+        33.895781
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0159b42c2f3f2207",
+    "name": null,
+    "place_type": "city"
+  },
+  "01693a337224bad0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Winfield, IL",
+    "geo": {
+      "bbox": [
+        -88.2038872,
+        41.8273068,
+        -88.1244242,
+        41.901705
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01693a337224bad0",
+    "name": null,
+    "place_type": "city"
+  },
+  "018929347840059e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Indianapolis, IN",
+    "geo": {
+      "bbox": [
+        -86.348441,
+        39.631677,
+        -85.937404,
+        39.927448
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "018929347840059e",
+    "name": null,
+    "place_type": "city"
+  },
+  "01a18b3376f3525c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Manahawkin, NJ",
+    "geo": {
+      "bbox": [
+        -74.2980164,
+        39.6669324,
+        -74.213792,
+        39.7247169
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01a18b3376f3525c",
+    "name": null,
+    "place_type": "city"
+  },
+  "01a5a4b9098ae238": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lewis Center, OH",
+    "geo": {
+      "bbox": [
+        -83.04024,
+        40.155625,
+        -82.954609,
+        40.249168
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01a5a4b9098ae238",
+    "name": null,
+    "place_type": "city"
+  },
+  "01a9a39529b27f36": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Manhattan, NY",
+    "geo": {
+      "bbox": [
+        -74.026675,
+        40.683935,
+        -73.910408,
+        40.877483
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01a9a39529b27f36",
+    "name": null,
+    "place_type": "city"
+  },
+  "01ae23a274353991": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Emerald Bay, TX",
+    "geo": {
+      "bbox": [
+        -95.470293,
+        32.135167,
+        -95.421165,
+        32.200693
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01ae23a274353991",
+    "name": null,
+    "place_type": "city"
+  },
+  "01b1e66962651ec3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Honey Creek, IN",
+    "geo": {
+      "bbox": [
+        -87.416298,
+        39.352794,
+        -87.360539,
+        39.395386
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01b1e66962651ec3",
+    "name": null,
+    "place_type": "city"
+  },
+  "01b828da4311466f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Croton-on-Hudson, NY",
+    "geo": {
+      "bbox": [
+        -73.946553,
+        41.168161,
+        -73.847928,
+        41.334491
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01b828da4311466f",
+    "name": null,
+    "place_type": "city"
+  },
+  "01bd241973160cac": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Hillsboro, OR",
+    "geo": {
+      "bbox": [
+        -123.011705,
+        45.488124,
+        -122.859355,
+        45.573434
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01bd241973160cac",
+    "name": null,
+    "place_type": "city"
+  },
+  "01c060cf466c6ce3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Long Beach, CA",
+    "geo": {
+      "bbox": [
+        -118.250227,
+        33.732905,
+        -118.0631938,
+        33.885438
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01c060cf466c6ce3",
+    "name": null,
+    "place_type": "city"
+  },
+  "01d4e349481265e8": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Carlsbad, CA",
+    "geo": {
+      "bbox": [
+        -117.359298,
+        33.0606148,
+        -117.216549,
+        33.1823533
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01d4e349481265e8",
+    "name": null,
+    "place_type": "city"
+  },
+  "01d5798f59d51d79": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Anthem, AZ",
+    "geo": {
+      "bbox": [
+        -112.164272,
+        33.784511,
+        -112.012981,
+        33.885193
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01d5798f59d51d79",
+    "name": null,
+    "place_type": "city"
+  },
+  "01f9c9fd7bb1aa6b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Athens, GA",
+    "geo": {
+      "bbox": [
+        -83.5218655,
+        33.877554,
+        -83.277693,
+        34.035213
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01f9c9fd7bb1aa6b",
+    "name": null,
+    "place_type": "city"
+  },
+  "01fbe706f872cb32": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Washington, DC",
+    "geo": {
+      "bbox": [
+        -77.119401,
+        38.801826,
+        -76.909396,
+        38.9953797
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "01fbe706f872cb32",
+    "name": null,
+    "place_type": "city"
+  },
+  "029dd1f28dbd3d26": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Richmond, CA",
+    "geo": {
+      "bbox": [
+        -122.420497,
+        37.895308,
+        -122.3043308,
+        38.002378
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "029dd1f28dbd3d26",
+    "name": null,
+    "place_type": "city"
+  },
+  "04291149b14feb9d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lancaster, CA",
+    "geo": {
+      "bbox": [
+        -118.280798,
+        34.6309445,
+        -118.045755,
+        34.740709
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "04291149b14feb9d",
+    "name": null,
+    "place_type": "city"
+  },
+  "04cb31bae3b3af93": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Miami, FL",
+    "geo": {
+      "bbox": [
+        -80.321683,
+        25.7090404,
+        -80.144974,
+        25.855667
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "04cb31bae3b3af93",
+    "name": null,
+    "place_type": "city"
+  },
+  "050c276f7bcbb37e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Beavercreek, OH",
+    "geo": {
+      "bbox": [
+        -84.106764,
+        39.676687,
+        -83.988342,
+        39.779185
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "050c276f7bcbb37e",
+    "name": null,
+    "place_type": "city"
+  },
+  "07d9c9283c484002": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Sotheby's",
+    "geo": {
+      "bbox": [
+        -73.95400261596386,
+        40.76649436504987,
+        -73.95400261596386,
+        40.76649436504987
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9c9283c484002",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9c93a8d080000": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "IBM TJ Watson Research Center",
+    "geo": {
+      "bbox": [
+        -73.80370146012591,
+        41.21057515221879,
+        -73.80370146012591,
+        41.21057515221879
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9c93a8d080000",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9ca15e1c84000": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Roger Williams Park - Temple of Music",
+    "geo": {
+      "bbox": [
+        -71.41399486229456,
+        41.780604967818356,
+        -71.41399486229456,
+        41.780604967818356
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9ca15e1c84000",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9d219c4482001": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "McCormick Place",
+    "geo": {
+      "bbox": [
+        -87.617671332652,
+        41.850980593788,
+        -87.617671332652,
+        41.850980593788
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9d219c4482001",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9d5da05880003": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "The Hamilton",
+    "geo": {
+      "bbox": [
+        -77.0322032236736,
+        38.89744105020522,
+        -77.0322032236736,
+        38.89744105020522
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9d5da05880003",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9e38de7086001": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Boston Convention & Exhibition Center",
+    "geo": {
+      "bbox": [
+        -71.04540824890137,
+        42.346040219825284,
+        -71.04540824890137,
+        42.346040219825284
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9e38de7086001",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9e3a6cb083002": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Florida Hospital Orlando",
+    "geo": {
+      "bbox": [
+        -81.37080287341713,
+        28.575430531696984,
+        -81.37080287341713,
+        28.575430531696984
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9e3a6cb083002",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9e3a8d0086001": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Bancorp South Arena",
+    "geo": {
+      "bbox": [
+        -88.69979381561285,
+        34.25949538185177,
+        -88.69979381561285,
+        34.25949538185177
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9e3a8d0086001",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9e3b797484000": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "FIU - Roz and Cal Kovens Conference Center",
+    "geo": {
+      "bbox": [
+        -80.1387751111111,
+        25.907309960010135,
+        -80.1387751111111,
+        25.907309960010135
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9e3b797484000",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9e3f473082000": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "NIH Building 31",
+    "geo": {
+      "bbox": [
+        -77.10097789764404,
+        39.002610554832096,
+        -77.10097789764404,
+        39.002610554832096
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9e3f473082000",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9e7b1f6084000": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "WIU Curriculum Library",
+    "geo": {
+      "bbox": [
+        -90.689253,
+        40.469568,
+        -90.689253,
+        40.469568
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9e7b1f6084000",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9ec68fc884005": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ronald Reagan Building & International Trade Center",
+    "geo": {
+      "bbox": [
+        -77.03087916110701,
+        38.89395004818115,
+        -77.03087916110701,
+        38.89395004818115
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9ec68fc884005",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9ec7af8486000": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Baylor College Of Medicine",
+    "geo": {
+      "bbox": [
+        -95.39623975753784,
+        29.71055926846009,
+        -95.39623975753784,
+        29.71055926846009
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9ec7af8486000",
+    "name": null,
+    "place_type": "poi"
+  },
+  "07d9f80d71887001": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ballroom A-D Marriott Wardman",
+    "geo": {
+      "bbox": [
+        -77.05537816648476,
+        38.924015725446274,
+        -77.05537816648476,
+        38.924015725446274
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "07d9f80d71887001",
+    "name": null,
+    "place_type": "poi"
+  },
+  "080b8d8543aab399": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Bloomington, MN",
+    "geo": {
+      "bbox": [
+        -93.399443,
+        44.78542,
+        -93.203245,
+        44.863519
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "080b8d8543aab399",
+    "name": null,
+    "place_type": "city"
+  },
+  "095534ad3107e0e6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Louisville, KY",
+    "geo": {
+      "bbox": [
+        -85.847503,
+        38.108678,
+        -85.597188,
+        38.282432
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "095534ad3107e0e6",
+    "name": null,
+    "place_type": "city"
+  },
+  "0a0de7bd49ef942d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Scottsdale, AZ",
+    "geo": {
+      "bbox": [
+        -111.960775,
+        33.4358637,
+        -111.756022,
+        33.842816
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0a0de7bd49ef942d",
+    "name": null,
+    "place_type": "city"
+  },
+  "0a40560cd52f96a7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Grass Valley, CA",
+    "geo": {
+      "bbox": [
+        -121.114756,
+        39.182283,
+        -121.00162,
+        39.248861
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0a40560cd52f96a7",
+    "name": null,
+    "place_type": "city"
+  },
+  "0a6476ab5b567000": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Online Caribbean Music Station | Caribbean Power Jam Radio",
+    "geo": {
+      "bbox": [
+        -73.92777199999999,
+        40.660185,
+        -73.92777199999999,
+        40.660185
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0a6476ab5b567000",
+    "name": null,
+    "place_type": "poi"
+  },
+  "0b9c2aedc0d4a001": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "ENCLAVE for Entrepreneurs at O'Hare",
+    "geo": {
+      "bbox": [
+        -88.001751,
+        41.993353,
+        -88.001751,
+        41.993353
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0b9c2aedc0d4a001",
+    "name": null,
+    "place_type": "poi"
+  },
+  "0beb437130b67da9": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lee, MA",
+    "geo": {
+      "bbox": [
+        -73.289209,
+        42.272359,
+        -73.203703,
+        42.332776
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0beb437130b67da9",
+    "name": null,
+    "place_type": "city"
+  },
+  "0c2e19c2631eb155": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Coronado, CA",
+    "geo": {
+      "bbox": [
+        -117.227156,
+        32.585524,
+        -117.117931,
+        32.71468
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0c2e19c2631eb155",
+    "name": null,
+    "place_type": "city"
+  },
+  "0c2e6999105f8070": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Anaheim, CA",
+    "geo": {
+      "bbox": [
+        -118.017789,
+        33.788913,
+        -117.684389,
+        33.896813
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0c2e6999105f8070",
+    "name": null,
+    "place_type": "city"
+  },
+  "0ca3946cc8977001": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Venue One",
+    "geo": {
+      "bbox": [
+        -87.66917765115055,
+        41.88596297954117,
+        -87.66917765115055,
+        41.88596297954117
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0ca3946cc8977001",
+    "name": null,
+    "place_type": "poi"
+  },
+  "0ce4c27ce26030aa": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Newport Beach, CA",
+    "geo": {
+      "bbox": [
+        -117.9582193,
+        33.563618,
+        -117.789845,
+        33.671658
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0ce4c27ce26030aa",
+    "name": null,
+    "place_type": "city"
+  },
+  "0fa2e45c48f0ae2a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Loveland, CO",
+    "geo": {
+      "bbox": [
+        -105.176024,
+        40.3529092,
+        -104.973792,
+        40.4658383
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "0fa2e45c48f0ae2a",
+    "name": null,
+    "place_type": "city"
+  },
+  "1010ecfa7d3a40f8": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Indiana, USA",
+    "geo": {
+      "bbox": [
+        -88.097892,
+        37.771743,
+        -84.78458,
+        41.761368
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1010ecfa7d3a40f8",
+    "name": null,
+    "place_type": "admin"
+  },
+  "101f6a0f4879d8a6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Belmont, CA",
+    "geo": {
+      "bbox": [
+        -122.32889,
+        37.497748,
+        -122.2615683,
+        37.534693
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "101f6a0f4879d8a6",
+    "name": null,
+    "place_type": "city"
+  },
+  "10de09f288b1665c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Pasadena, CA",
+    "geo": {
+      "bbox": [
+        -118.198346,
+        34.117025,
+        -118.065582,
+        34.237595
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "10de09f288b1665c",
+    "name": null,
+    "place_type": "city"
+  },
+  "11148050237800f2": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Port St Lucie, FL",
+    "geo": {
+      "bbox": [
+        -80.457446,
+        27.20569,
+        -80.233079,
+        27.3958399
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "11148050237800f2",
+    "name": null,
+    "place_type": "city"
+  },
+  "13f1b1eadfb47f9b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Brookline, MA",
+    "geo": {
+      "bbox": [
+        -71.178586,
+        42.29466,
+        -71.105725,
+        42.351818
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "13f1b1eadfb47f9b",
+    "name": null,
+    "place_type": "city"
+  },
+  "1496f43fd8a3341f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Fall River, MA",
+    "geo": {
+      "bbox": [
+        -71.195676,
+        41.603903,
+        -71.101605,
+        41.7682983
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1496f43fd8a3341f",
+    "name": null,
+    "place_type": "city"
+  },
+  "1853a23eb7615e2d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Agawam, MA",
+    "geo": {
+      "bbox": [
+        -72.710598,
+        42.03108,
+        -72.584948,
+        42.102783
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1853a23eb7615e2d",
+    "name": null,
+    "place_type": "city"
+  },
+  "18810aa5b43e76c7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Dallas, TX",
+    "geo": {
+      "bbox": [
+        -96.977527,
+        32.620678,
+        -96.54598,
+        33.019039
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "18810aa5b43e76c7",
+    "name": null,
+    "place_type": "city"
+  },
+  "18df13e4a5a670b5": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "North Charleston, SC",
+    "geo": {
+      "bbox": [
+        -80.1575903,
+        32.829336,
+        -79.934288,
+        32.9995131
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "18df13e4a5a670b5",
+    "name": null,
+    "place_type": "city"
+  },
+  "1994142e26ba7127": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Davis, CA",
+    "geo": {
+      "bbox": [
+        -121.803252,
+        38.526843,
+        -121.675074,
+        38.590264
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1994142e26ba7127",
+    "name": null,
+    "place_type": "city"
+  },
+  "19d41c6eff11e9d6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cerritos, CA",
+    "geo": {
+      "bbox": [
+        -118.108568,
+        33.84596,
+        -118.02881,
+        33.887971
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "19d41c6eff11e9d6",
+    "name": null,
+    "place_type": "city"
+  },
+  "19e2bff2e89dc38e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Murfreesboro, TN",
+    "geo": {
+      "bbox": [
+        -86.505805,
+        35.751433,
+        -86.313415,
+        35.943407
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "19e2bff2e89dc38e",
+    "name": null,
+    "place_type": "city"
+  },
+  "1c67f9d9cbae7f69": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Des Moines, IA",
+    "geo": {
+      "bbox": [
+        -93.709504,
+        41.501409,
+        -93.503235,
+        41.6514656
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1c67f9d9cbae7f69",
+    "name": null,
+    "place_type": "city"
+  },
+  "1c69a67ad480e1b1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Houston, TX",
+    "geo": {
+      "bbox": [
+        -95.823268,
+        29.522325,
+        -95.069705,
+        30.1546646
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1c69a67ad480e1b1",
+    "name": null,
+    "place_type": "city"
+  },
+  "1c73ebb264e145ee": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Louisiana, USA",
+    "geo": {
+      "bbox": [
+        -94.043628,
+        28.855128,
+        -88.758389,
+        33.019544
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1c73ebb264e145ee",
+    "name": null,
+    "place_type": "admin"
+  },
+  "1d9a5370a355ab0c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Chicago, IL",
+    "geo": {
+      "bbox": [
+        -87.940033,
+        41.644102,
+        -87.523993,
+        42.0230669
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1d9a5370a355ab0c",
+    "name": null,
+    "place_type": "city"
+  },
+  "203776e9d7e421a6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ashland, NJ",
+    "geo": {
+      "bbox": [
+        -75.027179,
+        39.8593695,
+        -74.988897,
+        39.900149
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "203776e9d7e421a6",
+    "name": null,
+    "place_type": "city"
+  },
+  "2335250557ea3fb4": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Champaign, IL",
+    "geo": {
+      "bbox": [
+        -88.333161,
+        40.054674,
+        -88.225277,
+        40.160295
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "2335250557ea3fb4",
+    "name": null,
+    "place_type": "city"
+  },
+  "23c9865273efcb5c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lakeway, TX",
+    "geo": {
+      "bbox": [
+        -98.013875,
+        30.3221922,
+        -97.942567,
+        30.389523
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "23c9865273efcb5c",
+    "name": null,
+    "place_type": "city"
+  },
+  "23ebe811ea93fd41": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Chapel Hill, NC",
+    "geo": {
+      "bbox": [
+        -79.0831529,
+        35.869376,
+        -78.968887,
+        35.969507
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "23ebe811ea93fd41",
+    "name": null,
+    "place_type": "city"
+  },
+  "244a59e8daf055d4": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Corte Madera, CA",
+    "geo": {
+      "bbox": [
+        -122.53966,
+        37.906415,
+        -122.485616,
+        37.941965
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "244a59e8daf055d4",
+    "name": null,
+    "place_type": "city"
+  },
+  "2526edd24c06e60c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Missouri, USA",
+    "geo": {
+      "bbox": [
+        -95.774704,
+        35.995476,
+        -89.098843,
+        40.613641
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "2526edd24c06e60c",
+    "name": null,
+    "place_type": "admin"
+  },
+  "258c7428a48a8cfa": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Jeffersontown, KY",
+    "geo": {
+      "bbox": [
+        -85.60709,
+        38.143069,
+        -85.508139,
+        38.246418
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "258c7428a48a8cfa",
+    "name": null,
+    "place_type": "city"
+  },
+  "259d4fab72f5d95c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Toms River, NJ",
+    "geo": {
+      "bbox": [
+        -74.269909,
+        39.942803,
+        -74.10616,
+        40.059877
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "259d4fab72f5d95c",
+    "name": null,
+    "place_type": "city"
+  },
+  "25a2096c466b79bf": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Farragut, TN",
+    "geo": {
+      "bbox": [
+        -84.241116,
+        35.806025,
+        -84.119998,
+        35.917782
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "25a2096c466b79bf",
+    "name": null,
+    "place_type": "city"
+  },
+  "27485069891a7938": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "New York, NY",
+    "geo": {
+      "bbox": [
+        -74.255641,
+        40.495865,
+        -73.699793,
+        40.91533
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "27485069891a7938",
+    "name": null,
+    "place_type": "admin"
+  },
+  "288de3df481163e8": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Alabama, USA",
+    "geo": {
+      "bbox": [
+        -88.473228,
+        30.144425,
+        -84.888247,
+        35.008029
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "288de3df481163e8",
+    "name": null,
+    "place_type": "admin"
+  },
+  "2a93711775303f90": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Milwaukee, WI",
+    "geo": {
+      "bbox": [
+        -88.070827,
+        42.920822,
+        -87.863758,
+        43.1926225
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "2a93711775303f90",
+    "name": null,
+    "place_type": "city"
+  },
+  "2bc7c264a080898b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Hollywood, FL",
+    "geo": {
+      "bbox": [
+        -80.248975,
+        25.9862279,
+        -80.107808,
+        26.093132
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "2bc7c264a080898b",
+    "name": null,
+    "place_type": "city"
+  },
+  "2cce4a9792d2d92e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Greater Northdale, FL",
+    "geo": {
+      "bbox": [
+        -82.562328,
+        28.078692,
+        -82.502314,
+        28.1280586
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "2cce4a9792d2d92e",
+    "name": null,
+    "place_type": "city"
+  },
+  "2d173a2287b56654": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Union City, TN",
+    "geo": {
+      "bbox": [
+        -89.097794,
+        36.391036,
+        -88.985314,
+        36.459568
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "2d173a2287b56654",
+    "name": null,
+    "place_type": "city"
+  },
+  "2dbbd1540f814343": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Tacoma, WA",
+    "geo": {
+      "bbox": [
+        -122.5622146,
+        47.166863,
+        -122.3484729,
+        47.319058
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "2dbbd1540f814343",
+    "name": null,
+    "place_type": "city"
+  },
+  "300bcc6e23a88361": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Seattle, WA",
+    "geo": {
+      "bbox": [
+        -122.436232,
+        47.4953154,
+        -122.2249728,
+        47.734319
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "300bcc6e23a88361",
+    "name": null,
+    "place_type": "city"
+  },
+  "3018f1dc6d7d4c26": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Rochelle Park, NJ",
+    "geo": {
+      "bbox": [
+        -74.091226,
+        40.891769,
+        -74.068846,
+        40.919778
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3018f1dc6d7d4c26",
+    "name": null,
+    "place_type": "city"
+  },
+  "303f3a49548d2c53": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Neptune Beach, FL",
+    "geo": {
+      "bbox": [
+        -81.4385144,
+        30.3071064,
+        -81.392075,
+        30.3246556
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "303f3a49548d2c53",
+    "name": null,
+    "place_type": "city"
+  },
+  "319ee7b36c9149da": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Arlington, VA",
+    "geo": {
+      "bbox": [
+        -77.172219,
+        38.827378,
+        -77.031779,
+        38.934311
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "319ee7b36c9149da",
+    "name": null,
+    "place_type": "city"
+  },
+  "3227bcceb76b6a37": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Naperville, IL",
+    "geo": {
+      "bbox": [
+        -88.2595981,
+        41.6655839,
+        -88.063045,
+        41.8314084
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3227bcceb76b6a37",
+    "name": null,
+    "place_type": "city"
+  },
+  "3448f4f82d2187bc": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cookeville, TN",
+    "geo": {
+      "bbox": [
+        -85.601741,
+        36.046986,
+        -85.418673,
+        36.232069
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3448f4f82d2187bc",
+    "name": null,
+    "place_type": "city"
+  },
+  "34cbdf1e53ef826e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Schererville, IN",
+    "geo": {
+      "bbox": [
+        -87.493563,
+        41.449395,
+        -87.392266,
+        41.523148
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "34cbdf1e53ef826e",
+    "name": null,
+    "place_type": "city"
+  },
+  "3605db70c687a01d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Sioux Falls, SD",
+    "geo": {
+      "bbox": [
+        -96.8395021,
+        43.465641,
+        -96.622783,
+        43.616388
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3605db70c687a01d",
+    "name": null,
+    "place_type": "city"
+  },
+  "376e6de722d9a691": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cocoa Beach, FL",
+    "geo": {
+      "bbox": [
+        -80.64362,
+        28.286581,
+        -80.601732,
+        28.372031
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "376e6de722d9a691",
+    "name": null,
+    "place_type": "city"
+  },
+  "37bcd9d2fe172622": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mount Pleasant, SC",
+    "geo": {
+      "bbox": [
+        -79.922434,
+        32.766578,
+        -79.75221,
+        32.929315
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "37bcd9d2fe172622",
+    "name": null,
+    "place_type": "city"
+  },
+  "38109314e8d0ee2f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Roseville, CA",
+    "geo": {
+      "bbox": [
+        -121.385009,
+        38.716061,
+        -121.216452,
+        38.8102595
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "38109314e8d0ee2f",
+    "name": null,
+    "place_type": "city"
+  },
+  "3877d6c867447819": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Fort Wayne, IN",
+    "geo": {
+      "bbox": [
+        -85.336872,
+        40.95926,
+        -85.003231,
+        41.214574
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3877d6c867447819",
+    "name": null,
+    "place_type": "city"
+  },
+  "390600307e9cd236": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Bowling Green, KY",
+    "geo": {
+      "bbox": [
+        -86.542319,
+        36.890907,
+        -86.328698,
+        37.040435
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "390600307e9cd236",
+    "name": null,
+    "place_type": "city"
+  },
+  "3b77caf94bfc81fe": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Los Angeles, CA",
+    "geo": {
+      "bbox": [
+        -118.668404,
+        33.704538,
+        -118.155409,
+        34.337041
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3b77caf94bfc81fe",
+    "name": null,
+    "place_type": "city"
+  },
+  "3b98b02fba3f9753": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "North Carolina, USA",
+    "geo": {
+      "bbox": [
+        -84.3219475,
+        33.752879,
+        -75.40012,
+        36.588118
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3b98b02fba3f9753",
+    "name": null,
+    "place_type": "admin"
+  },
+  "3d533362cdab8107": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Irvine, CA",
+    "geo": {
+      "bbox": [
+        -117.86894,
+        33.606077,
+        -117.695781,
+        33.773387
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3d533362cdab8107",
+    "name": null,
+    "place_type": "city"
+  },
+  "3df0e3eb1e91170b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Columbus, OH",
+    "geo": {
+      "bbox": [
+        -83.200169,
+        39.832013,
+        -82.7713751,
+        40.157354
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3df0e3eb1e91170b",
+    "name": null,
+    "place_type": "city"
+  },
+  "3df4f427b5a60fea": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Antonio, TX",
+    "geo": {
+      "bbox": [
+        -98.778559,
+        29.141956,
+        -98.302744,
+        29.693046
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3df4f427b5a60fea",
+    "name": null,
+    "place_type": "city"
+  },
+  "3e82edc94d5c5ce1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Pasadena, TX",
+    "geo": {
+      "bbox": [
+        -95.2345837,
+        29.59057,
+        -95.083288,
+        29.746032
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3e82edc94d5c5ce1",
+    "name": null,
+    "place_type": "city"
+  },
+  "3e94c70e7a8a35d3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Reading, PA",
+    "geo": {
+      "bbox": [
+        -75.95954,
+        40.29676,
+        -75.890503,
+        40.371477
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3e94c70e7a8a35d3",
+    "name": null,
+    "place_type": "city"
+  },
+  "3f0085ad1a49fff2": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Kennedy Township, PA",
+    "geo": {
+      "bbox": [
+        -80.126487,
+        40.451466,
+        -80.074896,
+        40.503114
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3f0085ad1a49fff2",
+    "name": null,
+    "place_type": "city"
+  },
+  "3f3f6803f117606d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lubbock, TX",
+    "geo": {
+      "bbox": [
+        -102.033765,
+        33.4471196,
+        -101.760581,
+        33.693933
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3f3f6803f117606d",
+    "name": null,
+    "place_type": "city"
+  },
+  "3f5897b87d2bf56c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Delaware, USA",
+    "geo": {
+      "bbox": [
+        -75.7887564,
+        38.4510398,
+        -74.984165,
+        39.839007
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3f5897b87d2bf56c",
+    "name": null,
+    "place_type": "admin"
+  },
+  "3f871475c095f94f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Westminster, CO",
+    "geo": {
+      "bbox": [
+        -105.148925,
+        39.819133,
+        -104.987771,
+        39.97944
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "3f871475c095f94f",
+    "name": null,
+    "place_type": "city"
+  },
+  "41c331abe42d9969": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Apple Valley, CA",
+    "geo": {
+      "bbox": [
+        -117.2875328,
+        34.413411,
+        -117.103437,
+        34.5718427
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "41c331abe42d9969",
+    "name": null,
+    "place_type": "city"
+  },
+  "41de88d76c42e840": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Beacon Square, FL",
+    "geo": {
+      "bbox": [
+        -82.783978,
+        28.20094,
+        -82.7327634,
+        28.231561
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "41de88d76c42e840",
+    "name": null,
+    "place_type": "city"
+  },
+  "4201ce45d19aef68": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Spring Lake, NJ",
+    "geo": {
+      "bbox": [
+        -74.0377136,
+        40.138139,
+        -74.01542,
+        40.169047
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4201ce45d19aef68",
+    "name": null,
+    "place_type": "city"
+  },
+  "4265ece9285a2872": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Palm Springs, CA",
+    "geo": {
+      "bbox": [
+        -116.5677878,
+        33.7794258,
+        -116.466791,
+        33.8707332
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4265ece9285a2872",
+    "name": null,
+    "place_type": "city"
+  },
+  "42e46bc3663a4b5f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Fort Worth, TX",
+    "geo": {
+      "bbox": [
+        -97.538285,
+        32.569477,
+        -97.033542,
+        32.990456
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "42e46bc3663a4b5f",
+    "name": null,
+    "place_type": "city"
+  },
+  "43d2418301bf1a49": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mississippi, USA",
+    "geo": {
+      "bbox": [
+        -91.655009,
+        30.146096,
+        -88.097889,
+        34.995968
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "43d2418301bf1a49",
+    "name": null,
+    "place_type": "admin"
+  },
+  "44d207663001f00b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mesa, AZ",
+    "geo": {
+      "bbox": [
+        -111.894548,
+        33.306275,
+        -111.5805834,
+        33.505234
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "44d207663001f00b",
+    "name": null,
+    "place_type": "city"
+  },
+  "463f5d9615d7d1be": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Maine, USA",
+    "geo": {
+      "bbox": [
+        -71.084335,
+        42.917127,
+        -66.885075,
+        47.459687
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "463f5d9615d7d1be",
+    "name": null,
+    "place_type": "admin"
+  },
+  "4863e104770af94b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Blue Point, NY",
+    "geo": {
+      "bbox": [
+        -73.042738,
+        40.729536,
+        -73.021849,
+        40.776382
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4863e104770af94b",
+    "name": null,
+    "place_type": "city"
+  },
+  "488da0de4c92ac8e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Plano, TX",
+    "geo": {
+      "bbox": [
+        -96.85743,
+        32.9971507,
+        -96.612371,
+        33.1253341
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "488da0de4c92ac8e",
+    "name": null,
+    "place_type": "city"
+  },
+  "48ddd956df593fc0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Orlovista, FL",
+    "geo": {
+      "bbox": [
+        -81.475973,
+        28.53214,
+        -81.446957,
+        28.55261
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "48ddd956df593fc0",
+    "name": null,
+    "place_type": "city"
+  },
+  "4b58830723ec6371": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Santa Clara, CA",
+    "geo": {
+      "bbox": [
+        -122.005597,
+        37.322943,
+        -121.930045,
+        37.419037
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4b58830723ec6371",
+    "name": null,
+    "place_type": "city"
+  },
+  "4c2935046cf5d0bb": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Americus, GA",
+    "geo": {
+      "bbox": [
+        -84.293365,
+        32.034467,
+        -84.1776693,
+        32.118969
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4c2935046cf5d0bb",
+    "name": null,
+    "place_type": "city"
+  },
+  "4ccb1b26b2b91248": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Ramon, CA",
+    "geo": {
+      "bbox": [
+        -122.004255,
+        37.721286,
+        -121.8789037,
+        37.795164
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4ccb1b26b2b91248",
+    "name": null,
+    "place_type": "city"
+  },
+  "4dad272dba156a02": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Annandale, VA",
+    "geo": {
+      "bbox": [
+        -77.262146,
+        38.811091,
+        -77.157684,
+        38.865962
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4dad272dba156a02",
+    "name": null,
+    "place_type": "city"
+  },
+  "4e6b81828d453a7a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Marion, IL",
+    "geo": {
+      "bbox": [
+        -89.0216743,
+        37.69271,
+        -88.877579,
+        37.7740396
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4e6b81828d453a7a",
+    "name": null,
+    "place_type": "city"
+  },
+  "4eaabc683e109220": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Drexel Hill, PA",
+    "geo": {
+      "bbox": [
+        -75.331497,
+        39.911076,
+        -75.282044,
+        39.964566
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4eaabc683e109220",
+    "name": null,
+    "place_type": "city"
+  },
+  "4ec01c9dbc693497": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Florida, USA",
+    "geo": {
+      "bbox": [
+        -87.634643,
+        24.396308,
+        -79.974307,
+        31.001056
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "4ec01c9dbc693497",
+    "name": null,
+    "place_type": "admin"
+  },
+  "50d31ecdad5158be": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Greer, SC",
+    "geo": {
+      "bbox": [
+        -82.34636,
+        34.84665,
+        -82.132484,
+        35.030719
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "50d31ecdad5158be",
+    "name": null,
+    "place_type": "city"
+  },
+  "512a8a4a4c4b4be0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Charlotte, NC",
+    "geo": {
+      "bbox": [
+        -81.046876,
+        35.001706,
+        -80.646695,
+        35.416412
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "512a8a4a4c4b4be0",
+    "name": null,
+    "place_type": "city"
+  },
+  "52445186970bafb3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Chandler, AZ",
+    "geo": {
+      "bbox": [
+        -111.972849,
+        33.2037607,
+        -111.788898,
+        33.36114
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "52445186970bafb3",
+    "name": null,
+    "place_type": "city"
+  },
+  "5280739904d0ef48": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "The Woodlands, TX",
+    "geo": {
+      "bbox": [
+        -95.661376,
+        30.10764,
+        -95.418329,
+        30.254863
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5280739904d0ef48",
+    "name": null,
+    "place_type": "city"
+  },
+  "547fe91108bd744c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Juan, Puerto Rico",
+    "geo": {
+      "bbox": [
+        -66.125093,
+        18.29645,
+        -65.991643,
+        18.471881
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "547fe91108bd744c",
+    "name": null,
+    "place_type": "city"
+  },
+  "5635c19c2b5078d1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Virginia, USA",
+    "geo": {
+      "bbox": [
+        -83.67529,
+        36.540739,
+        -75.16644,
+        39.466012
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5635c19c2b5078d1",
+    "name": null,
+    "place_type": "admin"
+  },
+  "5727d936119423c0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Pembroke Pines, FL",
+    "geo": {
+      "bbox": [
+        -80.442683,
+        25.992486,
+        -80.2133136,
+        26.0632929
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5727d936119423c0",
+    "name": null,
+    "place_type": "city"
+  },
+  "594ec79d61a7f536": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Leesburg, VA",
+    "geo": {
+      "bbox": [
+        -77.6024144,
+        39.0676054,
+        -77.503682,
+        39.136067
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "594ec79d61a7f536",
+    "name": null,
+    "place_type": "city"
+  },
+  "59e53e0dccbaf7b6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Westwood, KS",
+    "geo": {
+      "bbox": [
+        -94.621238,
+        39.033278,
+        -94.607371,
+        39.044099
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "59e53e0dccbaf7b6",
+    "name": null,
+    "place_type": "city"
+  },
+  "5a110d312052166f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Francisco, CA",
+    "geo": {
+      "bbox": [
+        -122.514926,
+        37.708075,
+        -122.357031,
+        37.833238
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5a110d312052166f",
+    "name": null,
+    "place_type": "city"
+  },
+  "5acc3a887617d093": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Sarasota, FL",
+    "geo": {
+      "bbox": [
+        -82.588866,
+        27.293114,
+        -82.477281,
+        27.389129
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5acc3a887617d093",
+    "name": null,
+    "place_type": "city"
+  },
+  "5b0b1baf24cf0a6a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Tinley Park, IL",
+    "geo": {
+      "bbox": [
+        -87.853527,
+        41.5278885,
+        -87.742767,
+        41.604053
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5b0b1baf24cf0a6a",
+    "name": null,
+    "place_type": "city"
+  },
+  "5c62ffb0f0f3479d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Phoenix, AZ",
+    "geo": {
+      "bbox": [
+        -112.3239143,
+        33.29026,
+        -111.9254391,
+        33.8154652
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5c62ffb0f0f3479d",
+    "name": null,
+    "place_type": "city"
+  },
+  "5c8fea63bc3faa5b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Fargo, ND",
+    "geo": {
+      "bbox": [
+        -96.903853,
+        46.787881,
+        -96.756332,
+        46.941884
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5c8fea63bc3faa5b",
+    "name": null,
+    "place_type": "city"
+  },
+  "5e281c17a74c170f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Jacksonville Beach, FL",
+    "geo": {
+      "bbox": [
+        -81.429213,
+        30.252059,
+        -81.3804967,
+        30.307701
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5e281c17a74c170f",
+    "name": null,
+    "place_type": "city"
+  },
+  "5e4b6834e36e68fa": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Corona, CA",
+    "geo": {
+      "bbox": [
+        -117.672915,
+        33.802102,
+        -117.498401,
+        33.916084
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5e4b6834e36e68fa",
+    "name": null,
+    "place_type": "city"
+  },
+  "5ecbd073f39c00fa": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Hayward, CA",
+    "geo": {
+      "bbox": [
+        -122.160814,
+        37.592632,
+        -122.010737,
+        37.689909
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5ecbd073f39c00fa",
+    "name": null,
+    "place_type": "city"
+  },
+  "5ef5b7f391e30aff": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Berkeley, CA",
+    "geo": {
+      "bbox": [
+        -122.324818,
+        37.8459532,
+        -122.234225,
+        37.905738
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "5ef5b7f391e30aff",
+    "name": null,
+    "place_type": "city"
+  },
+  "6057f1e35bcc6c20": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "South Carolina, USA",
+    "geo": {
+      "bbox": [
+        -83.353955,
+        32.04683,
+        -78.499301,
+        35.215449
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6057f1e35bcc6c20",
+    "name": null,
+    "place_type": "admin"
+  },
+  "6098c1080dfc7af3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Winter Haven, FL",
+    "geo": {
+      "bbox": [
+        -81.770135,
+        27.939559,
+        -81.6276375,
+        28.095052
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6098c1080dfc7af3",
+    "name": null,
+    "place_type": "city"
+  },
+  "60e2c37980197297": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "St Paul, MN",
+    "geo": {
+      "bbox": [
+        -93.207783,
+        44.8907521,
+        -93.003514,
+        44.992279
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "60e2c37980197297",
+    "name": null,
+    "place_type": "city"
+  },
+  "6149129795138afd": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "North Bay Village, FL",
+    "geo": {
+      "bbox": [
+        -80.160678,
+        25.843873,
+        -80.145169,
+        25.85511
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6149129795138afd",
+    "name": null,
+    "place_type": "city"
+  },
+  "61c225139f635563": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Hartford, CT",
+    "geo": {
+      "bbox": [
+        -72.718386,
+        41.723759,
+        -72.643547,
+        41.807475
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "61c225139f635563",
+    "name": null,
+    "place_type": "city"
+  },
+  "62619a76134ad05e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Duluth, MN",
+    "geo": {
+      "bbox": [
+        -92.282745,
+        46.650616,
+        -91.9629349,
+        46.8660532
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "62619a76134ad05e",
+    "name": null,
+    "place_type": "city"
+  },
+  "629b15360c8e51ae": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Suisun City, CA",
+    "geo": {
+      "bbox": [
+        -122.048884,
+        38.22999,
+        -121.969428,
+        38.265203
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "629b15360c8e51ae",
+    "name": null,
+    "place_type": "city"
+  },
+  "62ff27569714ddb3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Edmond, OK",
+    "geo": {
+      "bbox": [
+        -97.557572,
+        35.606823,
+        -97.35391,
+        35.7836212
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "62ff27569714ddb3",
+    "name": null,
+    "place_type": "city"
+  },
+  "63e2540eaa633704": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Crofton, MD",
+    "geo": {
+      "bbox": [
+        -76.707926,
+        38.980007,
+        -76.63862,
+        39.0298661
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "63e2540eaa633704",
+    "name": null,
+    "place_type": "city"
+  },
+  "6416fd85ecf9cf8b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Palm Valley, FL",
+    "geo": {
+      "bbox": [
+        -81.429238,
+        30.133473,
+        -81.36028,
+        30.252933
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6416fd85ecf9cf8b",
+    "name": null,
+    "place_type": "city"
+  },
+  "647be94a01a83f96": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ramsey, NJ",
+    "geo": {
+      "bbox": [
+        -74.176219,
+        41.040415,
+        -74.114594,
+        41.078123
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "647be94a01a83f96",
+    "name": null,
+    "place_type": "city"
+  },
+  "64ab889e24887e12": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Collierville, TN",
+    "geo": {
+      "bbox": [
+        -89.7444626,
+        35.006217,
+        -89.640889,
+        35.110826
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "64ab889e24887e12",
+    "name": null,
+    "place_type": "city"
+  },
+  "663c8601556b7e63": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Columbine Valley, CO",
+    "geo": {
+      "bbox": [
+        -105.047,
+        39.588529,
+        -105.0246445,
+        39.611245
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "663c8601556b7e63",
+    "name": null,
+    "place_type": "city"
+  },
+  "67b98f17fdcf20be": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Boston, MA",
+    "geo": {
+      "bbox": [
+        -71.191421,
+        42.227797,
+        -70.986004,
+        42.399542
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "67b98f17fdcf20be",
+    "name": null,
+    "place_type": "city"
+  },
+  "67d92742f1ebf307": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Michigan, USA",
+    "geo": {
+      "bbox": [
+        -90.4181075,
+        41.696088,
+        -82.122971,
+        48.306272
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "67d92742f1ebf307",
+    "name": null,
+    "place_type": "admin"
+  },
+  "6817a2a94b64df3f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Kenwood, OH",
+    "geo": {
+      "bbox": [
+        -84.394955,
+        39.191528,
+        -84.3567011,
+        39.22516
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6817a2a94b64df3f",
+    "name": null,
+    "place_type": "city"
+  },
+  "6a0a3474d8c5113c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "El Paso, TX",
+    "geo": {
+      "bbox": [
+        -106.634874,
+        31.6206683,
+        -106.199987,
+        31.966068
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6a0a3474d8c5113c",
+    "name": null,
+    "place_type": "city"
+  },
+  "6dd590c61801b09c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Friendswood, TX",
+    "geo": {
+      "bbox": [
+        -95.233093,
+        29.460644,
+        -95.145844,
+        29.563312
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6dd590c61801b09c",
+    "name": null,
+    "place_type": "city"
+  },
+  "6e1e36836f2a74a9": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Port Angeles, WA",
+    "geo": {
+      "bbox": [
+        -123.52563,
+        48.083505,
+        -123.331735,
+        48.142238
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6e1e36836f2a74a9",
+    "name": null,
+    "place_type": "city"
+  },
+  "6e276f099bcab5b5": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Youngstown, OH",
+    "geo": {
+      "bbox": [
+        -80.711161,
+        41.049898,
+        -80.56792,
+        41.160644
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6e276f099bcab5b5",
+    "name": null,
+    "place_type": "city"
+  },
+  "6ffcf3b0b904bbcb": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Kentucky, USA",
+    "geo": {
+      "bbox": [
+        -89.57151,
+        36.497129,
+        -81.964971,
+        39.147359
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "6ffcf3b0b904bbcb",
+    "name": null,
+    "place_type": "admin"
+  },
+  "7142eb97ae21e839": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Georgia, USA",
+    "geo": {
+      "bbox": [
+        -85.605166,
+        30.355644,
+        -80.742567,
+        35.000771
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7142eb97ae21e839",
+    "name": null,
+    "place_type": "admin"
+  },
+  "7356b662670b2c31": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Clifton, NJ",
+    "geo": {
+      "bbox": [
+        -74.1977277,
+        40.82028,
+        -74.118533,
+        40.899384
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7356b662670b2c31",
+    "name": null,
+    "place_type": "city"
+  },
+  "741e9df4d2522275": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Beverly Hills, CA",
+    "geo": {
+      "bbox": [
+        -118.4273439,
+        34.052559,
+        -118.371934,
+        34.112434
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "741e9df4d2522275",
+    "name": null,
+    "place_type": "city"
+  },
+  "74d460734c3eca69": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Muscle Shoals, AL",
+    "geo": {
+      "bbox": [
+        -87.6806388,
+        34.7052524,
+        -87.6173621,
+        34.762527
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "74d460734c3eca69",
+    "name": null,
+    "place_type": "city"
+  },
+  "76c1bb41d3de7ff1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Huntsville, AL",
+    "geo": {
+      "bbox": [
+        -86.7858813,
+        34.5784264,
+        -86.4369414,
+        34.833627
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "76c1bb41d3de7ff1",
+    "name": null,
+    "place_type": "city"
+  },
+  "77fcb96a24077038": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mill Valley, CA",
+    "geo": {
+      "bbox": [
+        -122.577014,
+        37.8860986,
+        -122.512599,
+        37.930235
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "77fcb96a24077038",
+    "name": null,
+    "place_type": "city"
+  },
+  "781e991b9f95b37f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Romulus, MI",
+    "geo": {
+      "bbox": [
+        -83.446302,
+        42.179271,
+        -83.306006,
+        42.268212
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "781e991b9f95b37f",
+    "name": null,
+    "place_type": "city"
+  },
+  "788d40e08cf34358": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Anchorage, KY",
+    "geo": {
+      "bbox": [
+        -85.563842,
+        38.248987,
+        -85.499936,
+        38.297542
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "788d40e08cf34358",
+    "name": null,
+    "place_type": "city"
+  },
+  "7ad5ee3bb51bf311": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lebanon, NH",
+    "geo": {
+      "bbox": [
+        -72.331133,
+        43.59427,
+        -72.1688376,
+        43.691486
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7ad5ee3bb51bf311",
+    "name": null,
+    "place_type": "city"
+  },
+  "7b5667de9caf1b92": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Vallejo, CA",
+    "geo": {
+      "bbox": [
+        -122.293347,
+        38.060373,
+        -122.1670984,
+        38.169181
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7b5667de9caf1b92",
+    "name": null,
+    "place_type": "city"
+  },
+  "7c4ae4537997a58f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Elgin, IL",
+    "geo": {
+      "bbox": [
+        -88.4312933,
+        41.986293,
+        -88.189602,
+        42.093586
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7c4ae4537997a58f",
+    "name": null,
+    "place_type": "city"
+  },
+  "7cb7440bcf83d464": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Tempe, AZ",
+    "geo": {
+      "bbox": [
+        -111.979047,
+        33.3199453,
+        -111.877237,
+        33.465823
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7cb7440bcf83d464",
+    "name": null,
+    "place_type": "city"
+  },
+  "7d51c8dfbb08a9de": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Redding, CA",
+    "geo": {
+      "bbox": [
+        -122.452708,
+        40.456935,
+        -122.267398,
+        40.651054
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7d51c8dfbb08a9de",
+    "name": null,
+    "place_type": "city"
+  },
+  "7d563a4149988303": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Caldwell, ID",
+    "geo": {
+      "bbox": [
+        -116.713205,
+        43.590179,
+        -116.593171,
+        43.69763
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7d563a4149988303",
+    "name": null,
+    "place_type": "city"
+  },
+  "7d62cffe6f98f349": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Jose, CA",
+    "geo": {
+      "bbox": [
+        -122.035311,
+        37.193164,
+        -121.71215,
+        37.469154
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7d62cffe6f98f349",
+    "name": null,
+    "place_type": "city"
+  },
+  "7dc5c6d3bfb10ccc": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Wisconsin, USA",
+    "geo": {
+      "bbox": [
+        -92.889433,
+        42.491921,
+        -86.24955,
+        47.309715
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7dc5c6d3bfb10ccc",
+    "name": null,
+    "place_type": "admin"
+  },
+  "7dda05213481260c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Gainesville, FL",
+    "geo": {
+      "bbox": [
+        -82.421473,
+        29.600496,
+        -82.239066,
+        29.745847
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7dda05213481260c",
+    "name": null,
+    "place_type": "city"
+  },
+  "7dea5f8c907d1ea2": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Beverly, MA",
+    "geo": {
+      "bbox": [
+        -70.923007,
+        42.53915,
+        -70.793176,
+        42.593439
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7dea5f8c907d1ea2",
+    "name": null,
+    "place_type": "city"
+  },
+  "7f5293a53ed3f357": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Patchogue, NY",
+    "geo": {
+      "bbox": [
+        -73.037902,
+        40.746702,
+        -73.003159,
+        40.77814
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7f5293a53ed3f357",
+    "name": null,
+    "place_type": "city"
+  },
+  "7f7d58e5229c6b6c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Tennessee, USA",
+    "geo": {
+      "bbox": [
+        -90.310298,
+        34.982924,
+        -81.646901,
+        36.678119
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "7f7d58e5229c6b6c",
+    "name": null,
+    "place_type": "admin"
+  },
+  "8173485c72e78ca5": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Atlanta, GA",
+    "geo": {
+      "bbox": [
+        -84.576827,
+        33.6475029,
+        -84.289385,
+        33.8868859
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8173485c72e78ca5",
+    "name": null,
+    "place_type": "city"
+  },
+  "8193d87541f11dfb": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cambridge, MA",
+    "geo": {
+      "bbox": [
+        -71.160356,
+        42.352429,
+        -71.064398,
+        42.4039663
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8193d87541f11dfb",
+    "name": null,
+    "place_type": "city"
+  },
+  "832ac0728b3e26ac": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "West Lafayette, IN",
+    "geo": {
+      "bbox": [
+        -86.999431,
+        40.406761,
+        -86.86053,
+        40.511402
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "832ac0728b3e26ac",
+    "name": null,
+    "place_type": "city"
+  },
+  "840f120ae56c1da7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Napa, CA",
+    "geo": {
+      "bbox": [
+        -122.358011,
+        38.243267,
+        -122.254517,
+        38.350876
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "840f120ae56c1da7",
+    "name": null,
+    "place_type": "city"
+  },
+  "84229b03659050aa": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Virginia Beach, VA",
+    "geo": {
+      "bbox": [
+        -76.22808,
+        36.672684,
+        -75.9118121,
+        36.932399
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "84229b03659050aa",
+    "name": null,
+    "place_type": "city"
+  },
+  "879dfee0187b884a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Westland, MI",
+    "geo": {
+      "bbox": [
+        -83.430458,
+        42.267434,
+        -83.308978,
+        42.355177
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "879dfee0187b884a",
+    "name": null,
+    "place_type": "city"
+  },
+  "883ee3f98abb082b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "University Park, FL",
+    "geo": {
+      "bbox": [
+        -80.3854773,
+        25.732128,
+        -80.351653,
+        25.761752
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "883ee3f98abb082b",
+    "name": null,
+    "place_type": "city"
+  },
+  "8a35157e9a5c6983": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Great Neck Estates, NY",
+    "geo": {
+      "bbox": [
+        -73.750008,
+        40.775908,
+        -73.729385,
+        40.796085
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8a35157e9a5c6983",
+    "name": null,
+    "place_type": "city"
+  },
+  "8a6954309b085545": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Alabaster, AL",
+    "geo": {
+      "bbox": [
+        -86.878773,
+        33.169625,
+        -86.782514,
+        33.271913
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8a6954309b085545",
+    "name": null,
+    "place_type": "city"
+  },
+  "8cd2e7740a60fd93": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Smithtown, NY",
+    "geo": {
+      "bbox": [
+        -73.270527,
+        40.825276,
+        -73.168645,
+        40.895739
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8cd2e7740a60fd93",
+    "name": null,
+    "place_type": "city"
+  },
+  "8de43ba3f996df05": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Bartlesville, OK",
+    "geo": {
+      "bbox": [
+        -96.012722,
+        36.699006,
+        -95.899191,
+        36.786088
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8de43ba3f996df05",
+    "name": null,
+    "place_type": "city"
+  },
+  "8eb7d0abedc4817b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Greenville, SC",
+    "geo": {
+      "bbox": [
+        -82.434848,
+        34.687331,
+        -82.249689,
+        34.904552
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8eb7d0abedc4817b",
+    "name": null,
+    "place_type": "city"
+  },
+  "8fa6d7a33b83ef26": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Paradise, NV",
+    "geo": {
+      "bbox": [
+        -115.2092535,
+        35.984784,
+        -115.0610763,
+        36.137145
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "8fa6d7a33b83ef26",
+    "name": null,
+    "place_type": "city"
+  },
+  "90c32e0ec569d261": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Webster Groves, MO",
+    "geo": {
+      "bbox": [
+        -90.377357,
+        38.562368,
+        -90.326039,
+        38.610641
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "90c32e0ec569d261",
+    "name": null,
+    "place_type": "city"
+  },
+  "91d57ea9ae3b0bbd": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lorain, OH",
+    "geo": {
+      "bbox": [
+        -82.292185,
+        41.401871,
+        -82.096884,
+        41.4852105
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "91d57ea9ae3b0bbd",
+    "name": null,
+    "place_type": "city"
+  },
+  "92b2158a6d509767": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ann Arbor, MI",
+    "geo": {
+      "bbox": [
+        -83.800262,
+        42.215087,
+        -83.659681,
+        42.326592
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "92b2158a6d509767",
+    "name": null,
+    "place_type": "city"
+  },
+  "934d465ac8227bb4": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Westhampton Beach, NY",
+    "geo": {
+      "bbox": [
+        -72.66205,
+        40.79498,
+        -72.625608,
+        40.832789
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "934d465ac8227bb4",
+    "name": null,
+    "place_type": "city"
+  },
+  "944c03c1d85ef480": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Fresno, CA",
+    "geo": {
+      "bbox": [
+        -119.93251,
+        36.648905,
+        -119.632419,
+        36.923179
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "944c03c1d85ef480",
+    "name": null,
+    "place_type": "city"
+  },
+  "946ccd22e1c9cda1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Pittsburgh, PA",
+    "geo": {
+      "bbox": [
+        -80.095586,
+        40.3615796,
+        -79.8657933,
+        40.501198
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "946ccd22e1c9cda1",
+    "name": null,
+    "place_type": "city"
+  },
+  "947299911720444c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Laguna, CA",
+    "geo": {
+      "bbox": [
+        -121.4882357,
+        38.379179,
+        -121.390531,
+        38.441677
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "947299911720444c",
+    "name": null,
+    "place_type": "city"
+  },
+  "94965b2c45386f87": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "New York, USA",
+    "geo": {
+      "bbox": [
+        -79.76259,
+        40.477383,
+        -71.777492,
+        45.015851
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "94965b2c45386f87",
+    "name": null,
+    "place_type": "admin"
+  },
+  "987731fa5d6db2ba": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lafayette, CA",
+    "geo": {
+      "bbox": [
+        -122.167768,
+        37.8500364,
+        -122.077905,
+        37.9394452
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "987731fa5d6db2ba",
+    "name": null,
+    "place_type": "city"
+  },
+  "9979d3480f2d1e45": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Palm Bay, FL",
+    "geo": {
+      "bbox": [
+        -80.737408,
+        27.910056,
+        -80.566228,
+        28.063838
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "9979d3480f2d1e45",
+    "name": null,
+    "place_type": "city"
+  },
+  "9a974dfc8efb32a0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Kansas City, MO",
+    "geo": {
+      "bbox": [
+        -94.733122,
+        38.868002,
+        -94.3854414,
+        39.332095
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "9a974dfc8efb32a0",
+    "name": null,
+    "place_type": "city"
+  },
+  "9a99329bbb5d8bba": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Paradise Valley, AZ",
+    "geo": {
+      "bbox": [
+        -112.014232,
+        33.508746,
+        -111.916817,
+        33.582629
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "9a99329bbb5d8bba",
+    "name": null,
+    "place_type": "city"
+  },
+  "9cee92fec370baf9": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Burlingame, CA",
+    "geo": {
+      "bbox": [
+        -122.4039361,
+        37.5681114,
+        -122.3308186,
+        37.604114
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "9cee92fec370baf9",
+    "name": null,
+    "place_type": "city"
+  },
+  "9d4c71b7937a3a90": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Tyler, TX",
+    "geo": {
+      "bbox": [
+        -95.414773,
+        32.221406,
+        -95.219307,
+        32.409917
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "9d4c71b7937a3a90",
+    "name": null,
+    "place_type": "city"
+  },
+  "9d8a608c1895dce3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Avon, OH",
+    "geo": {
+      "bbox": [
+        -82.069227,
+        41.4183606,
+        -81.969378,
+        41.47865
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "9d8a608c1895dce3",
+    "name": null,
+    "place_type": "city"
+  },
+  "9f2cf908e8d73cd6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Whitefish Bay, WI",
+    "geo": {
+      "bbox": [
+        -87.913628,
+        43.098682,
+        -87.876343,
+        43.134926
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "9f2cf908e8d73cd6",
+    "name": null,
+    "place_type": "city"
+  },
+  "a1a25de9f5efa69b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Eden Prairie, MN",
+    "geo": {
+      "bbox": [
+        -93.520913,
+        44.799239,
+        -93.397946,
+        44.893162
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a1a25de9f5efa69b",
+    "name": null,
+    "place_type": "city"
+  },
+  "a2c84129f9dcf69f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Marcos, CA",
+    "geo": {
+      "bbox": [
+        -117.2301723,
+        33.0907611,
+        -117.103461,
+        33.186722
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a2c84129f9dcf69f",
+    "name": null,
+    "place_type": "city"
+  },
+  "a3d770a00f15bcb1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Corpus Christi, TX",
+    "geo": {
+      "bbox": [
+        -97.662618,
+        27.578509,
+        -97.202232,
+        27.895793
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a3d770a00f15bcb1",
+    "name": null,
+    "place_type": "city"
+  },
+  "a592bd6ceb1319f7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Diego, CA",
+    "geo": {
+      "bbox": [
+        -117.282538,
+        32.53962,
+        -116.9274403,
+        33.0804044
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a592bd6ceb1319f7",
+    "name": null,
+    "place_type": "city"
+  },
+  "a612c69b44b2e5da": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Arizona, USA",
+    "geo": {
+      "bbox": [
+        -114.818269,
+        31.3322463,
+        -109.0451527,
+        37.004261
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a612c69b44b2e5da",
+    "name": null,
+    "place_type": "admin"
+  },
+  "a72227adc0e7da25": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Galax, VA",
+    "geo": {
+      "bbox": [
+        -80.9498769,
+        36.626245,
+        -80.877282,
+        36.695055
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a72227adc0e7da25",
+    "name": null,
+    "place_type": "city"
+  },
+  "a81f9ed24c15d6af": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Grand Rapids, MI",
+    "geo": {
+      "bbox": [
+        -85.751406,
+        42.883679,
+        -85.530877,
+        43.029144
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a81f9ed24c15d6af",
+    "name": null,
+    "place_type": "city"
+  },
+  "a89175c4c91f45a3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Citrus Heights, CA",
+    "geo": {
+      "bbox": [
+        -121.331355,
+        38.663673,
+        -121.242804,
+        38.722779
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "a89175c4c91f45a3",
+    "name": null,
+    "place_type": "city"
+  },
+  "aa30747001a23f03": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Danville, CA",
+    "geo": {
+      "bbox": [
+        -122.027412,
+        37.779803,
+        -121.89165,
+        37.847751
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "aa30747001a23f03",
+    "name": null,
+    "place_type": "city"
+  },
+  "ab2b3353d37b40e6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "El Dorado Hills, CA",
+    "geo": {
+      "bbox": [
+        -121.111768,
+        38.621986,
+        -121.027263,
+        38.743729
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ab2b3353d37b40e6",
+    "name": null,
+    "place_type": "city"
+  },
+  "ab2f2fac83aa388d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Oakland, CA",
+    "geo": {
+      "bbox": [
+        -122.34266,
+        37.699279,
+        -122.114711,
+        37.8847092
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ab2f2fac83aa388d",
+    "name": null,
+    "place_type": "city"
+  },
+  "ac88a4f17a51c7fc": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Portland, OR",
+    "geo": {
+      "bbox": [
+        -122.7900653,
+        45.421863,
+        -122.471751,
+        45.6509405
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ac88a4f17a51c7fc",
+    "name": null,
+    "place_type": "city"
+  },
+  "ae76bffcaf2bf545": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ithaca, NY",
+    "geo": {
+      "bbox": [
+        -76.547738,
+        42.41815,
+        -76.469987,
+        42.480827
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ae76bffcaf2bf545",
+    "name": null,
+    "place_type": "city"
+  },
+  "ae845a49091f2727": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Somerville, MA",
+    "geo": {
+      "bbox": [
+        -71.134552,
+        42.3727525,
+        -71.072892,
+        42.418052
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ae845a49091f2727",
+    "name": null,
+    "place_type": "city"
+  },
+  "aeca883f15e2aa85": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "East Lansing, MI",
+    "geo": {
+      "bbox": [
+        -84.515906,
+        42.704505,
+        -84.447347,
+        42.788935
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "aeca883f15e2aa85",
+    "name": null,
+    "place_type": "city"
+  },
+  "afdda35f375f55ae": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Kaneohe, HI",
+    "geo": {
+      "bbox": [
+        -157.8309972,
+        21.3850908,
+        -157.760186,
+        21.428755
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "afdda35f375f55ae",
+    "name": null,
+    "place_type": "city"
+  },
+  "b0b79caecef59fb5": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Burbank, CA",
+    "geo": {
+      "bbox": [
+        -118.37032,
+        34.1426298,
+        -118.2799703,
+        34.2216898
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "b0b79caecef59fb5",
+    "name": null,
+    "place_type": "city"
+  },
+  "b0ccc334a6d569d3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Yountville, CA",
+    "geo": {
+      "bbox": [
+        -122.384084,
+        38.380206,
+        -122.349882,
+        38.413965
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "b0ccc334a6d569d3",
+    "name": null,
+    "place_type": "city"
+  },
+  "b2e4e65d7b80d2c1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Fort Collins, CO",
+    "geo": {
+      "bbox": [
+        -105.148074,
+        40.47168,
+        -104.979811,
+        40.656701
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "b2e4e65d7b80d2c1",
+    "name": null,
+    "place_type": "city"
+  },
+  "b463d3bd6064861b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Detroit, MI",
+    "geo": {
+      "bbox": [
+        -83.288056,
+        42.255085,
+        -82.91052,
+        42.450488
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "b463d3bd6064861b",
+    "name": null,
+    "place_type": "city"
+  },
+  "b46f044cb28493c6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Saratoga, CA",
+    "geo": {
+      "bbox": [
+        -122.0681814,
+        37.237066,
+        -121.9895007,
+        37.2963857
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "b46f044cb28493c6",
+    "name": null,
+    "place_type": "city"
+  },
+  "b49b3053b5c25bf5": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Denver, CO",
+    "geo": {
+      "bbox": [
+        -105.109815,
+        39.614151,
+        -104.734372,
+        39.812975
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "b49b3053b5c25bf5",
+    "name": null,
+    "place_type": "city"
+  },
+  "b71fac2ee9792cbe": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Sacramento, CA",
+    "geo": {
+      "bbox": [
+        -121.576613,
+        38.43792,
+        -121.362715,
+        38.6855236
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "b71fac2ee9792cbe",
+    "name": null,
+    "place_type": "city"
+  },
+  "bba15d635574b0b9": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Jollyville, TX",
+    "geo": {
+      "bbox": [
+        -97.7852511,
+        30.4407872,
+        -97.718501,
+        30.473123
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "bba15d635574b0b9",
+    "name": null,
+    "place_type": "city"
+  },
+  "bc3a38d3d5999b4b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Washington, USA",
+    "geo": {
+      "bbox": [
+        -124.848975,
+        45.543542,
+        -116.915989,
+        49.0025023
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "bc3a38d3d5999b4b",
+    "name": null,
+    "place_type": "admin"
+  },
+  "bd73972b51647e05": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Bangor, ME",
+    "geo": {
+      "bbox": [
+        -68.872064,
+        44.768404,
+        -68.71876,
+        44.855108
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "bd73972b51647e05",
+    "name": null,
+    "place_type": "city"
+  },
+  "bd7c511e9f8bc5da": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Salt Lake City, UT",
+    "geo": {
+      "bbox": [
+        -112.0383105,
+        40.6998952,
+        -111.795741,
+        40.8317151
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "bd7c511e9f8bc5da",
+    "name": null,
+    "place_type": "city"
+  },
+  "be3410e825fe4fa4": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Moscow, ID",
+    "geo": {
+      "bbox": [
+        -117.039699,
+        46.710846,
+        -116.961769,
+        46.758567
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "be3410e825fe4fa4",
+    "name": null,
+    "place_type": "city"
+  },
+  "bfadcb4bfcf83cef": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Vincennes, IN",
+    "geo": {
+      "bbox": [
+        -87.547173,
+        38.625181,
+        -87.433471,
+        38.736046
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "bfadcb4bfcf83cef",
+    "name": null,
+    "place_type": "city"
+  },
+  "c03748ea7a3b06c0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Massapequa Park, NY",
+    "geo": {
+      "bbox": [
+        -73.464521,
+        40.652099,
+        -73.436512,
+        40.705188
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c03748ea7a3b06c0",
+    "name": null,
+    "place_type": "city"
+  },
+  "c09fcf25417019e8": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Northfield, KY",
+    "geo": {
+      "bbox": [
+        -85.646425,
+        38.279473,
+        -85.626322,
+        38.291952
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c09fcf25417019e8",
+    "name": null,
+    "place_type": "city"
+  },
+  "c0b8e8dc81930292": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Baltimore, MD",
+    "geo": {
+      "bbox": [
+        -76.7115205,
+        39.197211,
+        -76.529443,
+        39.372215
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c0b8e8dc81930292",
+    "name": null,
+    "place_type": "city"
+  },
+  "c1ef8962bc0b514d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "New Bern, NC",
+    "geo": {
+      "bbox": [
+        -77.137333,
+        35.076669,
+        -77.034161,
+        35.163741
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c1ef8962bc0b514d",
+    "name": null,
+    "place_type": "city"
+  },
+  "c201deec6d7ba944": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Eureka, CA",
+    "geo": {
+      "bbox": [
+        -124.202007,
+        40.7453389,
+        -124.136897,
+        40.819908
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c201deec6d7ba944",
+    "name": null,
+    "place_type": "city"
+  },
+  "c3f1deee8671c492": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Plano, IL",
+    "geo": {
+      "bbox": [
+        -88.565734,
+        41.645151,
+        -88.487888,
+        41.684729
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c3f1deee8671c492",
+    "name": null,
+    "place_type": "city"
+  },
+  "c3f37afa9efcf94b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Austin, TX",
+    "geo": {
+      "bbox": [
+        -97.928935,
+        30.127892,
+        -97.5805133,
+        30.5187994
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c3f37afa9efcf94b",
+    "name": null,
+    "place_type": "city"
+  },
+  "c47c0bc571bf5427": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Honolulu, HI",
+    "geo": {
+      "bbox": [
+        -157.950476,
+        21.254837,
+        -157.648702,
+        21.38505
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c47c0bc571bf5427",
+    "name": null,
+    "place_type": "city"
+  },
+  "c47efae2a73aef75": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "New Brunswick, NJ",
+    "geo": {
+      "bbox": [
+        -74.489529,
+        40.467252,
+        -74.39268,
+        40.509138
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c47efae2a73aef75",
+    "name": null,
+    "place_type": "city"
+  },
+  "c64c987193dab2f4": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Islip, NY",
+    "geo": {
+      "bbox": [
+        -73.243475,
+        40.705546,
+        -73.19854,
+        40.763225
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c64c987193dab2f4",
+    "name": null,
+    "place_type": "city"
+  },
+  "c74eb0eb4d8a51ed": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Adjuntas, Puerto Rico",
+    "geo": {
+      "bbox": [
+        -66.731683,
+        18.155607,
+        -66.716404,
+        18.170296
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c74eb0eb4d8a51ed",
+    "name": null,
+    "place_type": "city"
+  },
+  "c783883e2edd7454": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "West Haven, CT",
+    "geo": {
+      "bbox": [
+        -72.994697,
+        41.233074,
+        -72.919497,
+        41.313267
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c783883e2edd7454",
+    "name": null,
+    "place_type": "city"
+  },
+  "c79eed7858abe65e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Murphy, MO",
+    "geo": {
+      "bbox": [
+        -90.529632,
+        38.437456,
+        -90.423923,
+        38.541479
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c79eed7858abe65e",
+    "name": null,
+    "place_type": "city"
+  },
+  "c8022ca5114d7ea9": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Salem, OR",
+    "geo": {
+      "bbox": [
+        -123.122916,
+        44.853813,
+        -122.935114,
+        45.016355
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c8022ca5114d7ea9",
+    "name": null,
+    "place_type": "city"
+  },
+  "c8b021ffd0c94ffc": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Oak Park, IL",
+    "geo": {
+      "bbox": [
+        -87.805698,
+        41.8650062,
+        -87.774103,
+        41.909253
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "c8b021ffd0c94ffc",
+    "name": null,
+    "place_type": "city"
+  },
+  "cb74aaf709812e0f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Tulsa, OK",
+    "geo": {
+      "bbox": [
+        -96.0656278,
+        35.968624,
+        -95.761656,
+        36.250159
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "cb74aaf709812e0f",
+    "name": null,
+    "place_type": "city"
+  },
+  "cd450c94084cbf9b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Massachusetts, USA",
+    "geo": {
+      "bbox": [
+        -73.508143,
+        41.187054,
+        -69.858861,
+        42.8868241
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "cd450c94084cbf9b",
+    "name": null,
+    "place_type": "admin"
+  },
+  "cdf74b55fc0d4600": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Arlington Heights, IL",
+    "geo": {
+      "bbox": [
+        -88.026334,
+        42.028374,
+        -87.9446184,
+        42.162938
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "cdf74b55fc0d4600",
+    "name": null,
+    "place_type": "city"
+  },
+  "cf3b45e29c2c319b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "League City, TX",
+    "geo": {
+      "bbox": [
+        -95.178987,
+        29.438994,
+        -94.9950713,
+        29.55532
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "cf3b45e29c2c319b",
+    "name": null,
+    "place_type": "city"
+  },
+  "d06e595eb3733f42": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "South Dakota, USA",
+    "geo": {
+      "bbox": [
+        -104.05774,
+        42.479636,
+        -96.43659,
+        45.945379
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d06e595eb3733f42",
+    "name": null,
+    "place_type": "admin"
+  },
+  "d07feb9e5b1ce37c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Westminster, CA",
+    "geo": {
+      "bbox": [
+        -118.043083,
+        33.720269,
+        -117.944373,
+        33.774358
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d07feb9e5b1ce37c",
+    "name": null,
+    "place_type": "city"
+  },
+  "d1871b0189c27a21": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Warwick, RI",
+    "geo": {
+      "bbox": [
+        -71.518925,
+        41.629501,
+        -71.354415,
+        41.76838
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d1871b0189c27a21",
+    "name": null,
+    "place_type": "city"
+  },
+  "d1cd39353c51904d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Boca Raton, FL",
+    "geo": {
+      "bbox": [
+        -80.2039913,
+        26.320692,
+        -80.065981,
+        26.427259
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d1cd39353c51904d",
+    "name": null,
+    "place_type": "city"
+  },
+  "d2981a0f3d8eddd7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Dothan, AL",
+    "geo": {
+      "bbox": [
+        -85.515405,
+        31.130472,
+        -85.334617,
+        31.33397
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d2981a0f3d8eddd7",
+    "name": null,
+    "place_type": "city"
+  },
+  "d2ddff69682ae534": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Montana, USA",
+    "geo": {
+      "bbox": [
+        -116.050004,
+        44.35821,
+        -104.039563,
+        49.00139
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d2ddff69682ae534",
+    "name": null,
+    "place_type": "admin"
+  },
+  "d3c4d514e13810f3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "North Bethesda, MD",
+    "geo": {
+      "bbox": [
+        -77.155886,
+        39.0126343,
+        -77.084619,
+        39.0743035
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d3c4d514e13810f3",
+    "name": null,
+    "place_type": "city"
+  },
+  "d3f378f122d4f4a7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cheektowaga, NY",
+    "geo": {
+      "bbox": [
+        -78.799913,
+        42.863516,
+        -78.6968847,
+        42.950897
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d3f378f122d4f4a7",
+    "name": null,
+    "place_type": "city"
+  },
+  "d6819fe60643ebc1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Alexandria, VA",
+    "geo": {
+      "bbox": [
+        -77.144435,
+        38.789907,
+        -77.037304,
+        38.8448531
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d6819fe60643ebc1",
+    "name": null,
+    "place_type": "city"
+  },
+  "d7ffb21e3a0ee55c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Downtown, San Francisco",
+    "geo": {
+      "bbox": [
+        -122.41896192,
+        37.78151103,
+        -122.39558712,
+        37.79382996
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d7ffb21e3a0ee55c",
+    "name": null,
+    "place_type": "neighborhood"
+  },
+  "d84a2837f4d13599": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Owings Mills, MD",
+    "geo": {
+      "bbox": [
+        -76.843666,
+        39.38247,
+        -76.750777,
+        39.461505
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d84a2837f4d13599",
+    "name": null,
+    "place_type": "city"
+  },
+  "d88ba04b7e693c48": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Kingman, AZ",
+    "geo": {
+      "bbox": [
+        -114.07623,
+        35.1741305,
+        -113.959184,
+        35.273374
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d88ba04b7e693c48",
+    "name": null,
+    "place_type": "city"
+  },
+  "d8a409bb33c9355b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Grosse Pointe Woods, MI",
+    "geo": {
+      "bbox": [
+        -82.9231309,
+        42.4182695,
+        -82.877488,
+        42.4509608
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d8a409bb33c9355b",
+    "name": null,
+    "place_type": "city"
+  },
+  "d950fc7dc2cd14f9": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Orangevale, CA",
+    "geo": {
+      "bbox": [
+        -121.262498,
+        38.637436,
+        -121.1875214,
+        38.718208
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "d950fc7dc2cd14f9",
+    "name": null,
+    "place_type": "city"
+  },
+  "db6cee8d55fe4a29": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Nashua, NH",
+    "geo": {
+      "bbox": [
+        -71.5749,
+        42.7000873,
+        -71.4333342,
+        42.805852
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "db6cee8d55fe4a29",
+    "name": null,
+    "place_type": "city"
+  },
+  "db9ad480efc1ef51": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Winchester, MA",
+    "geo": {
+      "bbox": [
+        -71.189239,
+        42.435517,
+        -71.110782,
+        42.47389
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "db9ad480efc1ef51",
+    "name": null,
+    "place_type": "city"
+  },
+  "dbd1411661903bb0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Framingham, MA",
+    "geo": {
+      "bbox": [
+        -71.4971703,
+        42.257263,
+        -71.374193,
+        42.352931
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "dbd1411661903bb0",
+    "name": null,
+    "place_type": "city"
+  },
+  "dc3747428fa88cab": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Spokane, WA",
+    "geo": {
+      "bbox": [
+        -117.565226,
+        47.5742,
+        -117.303868,
+        47.760676
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "dc3747428fa88cab",
+    "name": null,
+    "place_type": "city"
+  },
+  "dce44ec49eb788f5": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Irving, TX",
+    "geo": {
+      "bbox": [
+        -97.034184,
+        32.771786,
+        -96.888782,
+        32.956048
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "dce44ec49eb788f5",
+    "name": null,
+    "place_type": "city"
+  },
+  "dd3b100831dd1763": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "New Orleans, LA",
+    "geo": {
+      "bbox": [
+        -90.137908,
+        29.889574,
+        -89.884108,
+        30.075628
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "dd3b100831dd1763",
+    "name": null,
+    "place_type": "city"
+  },
+  "dd9c503d6c35364b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Pennsylvania, USA",
+    "geo": {
+      "bbox": [
+        -80.519851,
+        39.719801,
+        -74.689517,
+        42.516072
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "dd9c503d6c35364b",
+    "name": null,
+    "place_type": "admin"
+  },
+  "ddb95977c7faf4f0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Groesbeck, TX",
+    "geo": {
+      "bbox": [
+        -96.551956,
+        31.505878,
+        -96.509126,
+        31.53815
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ddb95977c7faf4f0",
+    "name": null,
+    "place_type": "city"
+  },
+  "de599025180e2ee7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Ohio, USA",
+    "geo": {
+      "bbox": [
+        -84.8203089,
+        38.403186,
+        -80.518626,
+        42.327133
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "de599025180e2ee7",
+    "name": null,
+    "place_type": "admin"
+  },
+  "dea1eac2d7ef8878": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Maryland, USA",
+    "geo": {
+      "bbox": [
+        -79.487651,
+        37.886607,
+        -74.986286,
+        39.723622
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "dea1eac2d7ef8878",
+    "name": null,
+    "place_type": "admin"
+  },
+  "deb349182b3f42bb": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Auburn, AL",
+    "geo": {
+      "bbox": [
+        -85.569969,
+        32.532449,
+        -85.413112,
+        32.6620408
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "deb349182b3f42bb",
+    "name": null,
+    "place_type": "city"
+  },
+  "df7fd3a3b9eff7ee": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Oregon, USA",
+    "geo": {
+      "bbox": [
+        -124.703541,
+        41.991795,
+        -116.463262,
+        46.2990779
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "df7fd3a3b9eff7ee",
+    "name": null,
+    "place_type": "admin"
+  },
+  "dfe9991fc7f69a4f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Laurel Hollow, NY",
+    "geo": {
+      "bbox": [
+        -73.494416,
+        40.83702,
+        -73.455336,
+        40.879543
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "dfe9991fc7f69a4f",
+    "name": null,
+    "place_type": "city"
+  },
+  "e0060cda70f5f341": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Texas, USA",
+    "geo": {
+      "bbox": [
+        -106.645646,
+        25.837092,
+        -93.508131,
+        36.500695
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e0060cda70f5f341",
+    "name": null,
+    "place_type": "admin"
+  },
+  "e21c8e4914eef2b3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Colorado, USA",
+    "geo": {
+      "bbox": [
+        -109.060257,
+        36.992427,
+        -102.041524,
+        41.003445
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e21c8e4914eef2b3",
+    "name": null,
+    "place_type": "admin"
+  },
+  "e2fa1e6d23aea554": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cleveland, MS",
+    "geo": {
+      "bbox": [
+        -90.763071,
+        33.718281,
+        -90.697661,
+        33.766135
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e2fa1e6d23aea554",
+    "name": null,
+    "place_type": "city"
+  },
+  "e314d126e15cdbfa": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Golden Valley, MN",
+    "geo": {
+      "bbox": [
+        -93.400969,
+        44.966485,
+        -93.318318,
+        45.016929
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e314d126e15cdbfa",
+    "name": null,
+    "place_type": "city"
+  },
+  "e43fd5ffd4b3a689": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Seymour, IN",
+    "geo": {
+      "bbox": [
+        -85.9349702,
+        38.908542,
+        -85.817944,
+        38.990495
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e43fd5ffd4b3a689",
+    "name": null,
+    "place_type": "city"
+  },
+  "e444ecd51bd16ff3": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Cincinnati, OH",
+    "geo": {
+      "bbox": [
+        -84.710722,
+        39.052962,
+        -84.3689026,
+        39.2211137
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e444ecd51bd16ff3",
+    "name": null,
+    "place_type": "city"
+  },
+  "e4a0d228eb6be76b": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Philadelphia, PA",
+    "geo": {
+      "bbox": [
+        -75.280284,
+        39.871811,
+        -74.955712,
+        40.13792
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e4a0d228eb6be76b",
+    "name": null,
+    "place_type": "city"
+  },
+  "e4a530922c11f226": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Richmond Heights, MO",
+    "geo": {
+      "bbox": [
+        -90.3623212,
+        38.618724,
+        -90.306259,
+        38.641146
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e4a530922c11f226",
+    "name": null,
+    "place_type": "city"
+  },
+  "e4fa69eade6df2ab": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Collegeville, PA",
+    "geo": {
+      "bbox": [
+        -75.475568,
+        40.17271,
+        -75.447606,
+        40.20228
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e4fa69eade6df2ab",
+    "name": null,
+    "place_type": "city"
+  },
+  "e5c24c84174dea4d": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Delmar, NY",
+    "geo": {
+      "bbox": [
+        -73.893186,
+        42.567706,
+        -73.765684,
+        42.648649
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e5c24c84174dea4d",
+    "name": null,
+    "place_type": "city"
+  },
+  "e86b380cfefcced5": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Connecticut, USA",
+    "geo": {
+      "bbox": [
+        -73.727776,
+        40.950918,
+        -71.786994,
+        42.050588
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e86b380cfefcced5",
+    "name": null,
+    "place_type": "admin"
+  },
+  "e8ad2641c1cb666c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Arkansas, USA",
+    "geo": {
+      "bbox": [
+        -94.61771,
+        33.004106,
+        -89.644838,
+        36.499767
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e8ad2641c1cb666c",
+    "name": null,
+    "place_type": "admin"
+  },
+  "eb1bb64775708bc1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Glendora, CA",
+    "geo": {
+      "bbox": [
+        -117.890263,
+        34.1054901,
+        -117.809111,
+        34.165551
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "eb1bb64775708bc1",
+    "name": null,
+    "place_type": "city"
+  },
+  "ec212eb1116b92e2": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Reston, VA",
+    "geo": {
+      "bbox": [
+        -77.393246,
+        38.90861,
+        -77.304868,
+        39.002993
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ec212eb1116b92e2",
+    "name": null,
+    "place_type": "city"
+  },
+  "ec3b8b62828d8f6a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Frederick, MD",
+    "geo": {
+      "bbox": [
+        -77.476711,
+        39.369128,
+        -77.359293,
+        39.494945
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ec3b8b62828d8f6a",
+    "name": null,
+    "place_type": "city"
+  },
+  "ecb63eb9d9d83b31": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Shoreline, WA",
+    "geo": {
+      "bbox": [
+        -122.395019,
+        47.7337608,
+        -122.2913388,
+        47.777982
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ecb63eb9d9d83b31",
+    "name": null,
+    "place_type": "city"
+  },
+  "ecbe2aea853af44e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Tallahassee, FL",
+    "geo": {
+      "bbox": [
+        -84.386548,
+        30.365093,
+        -84.1458,
+        30.587338
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ecbe2aea853af44e",
+    "name": null,
+    "place_type": "city"
+  },
+  "ef7d5a3592adbcc7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Brunswick, ME",
+    "geo": {
+      "bbox": [
+        -70.0200027,
+        43.868253,
+        -69.856736,
+        43.949801
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "ef7d5a3592adbcc7",
+    "name": null,
+    "place_type": "city"
+  },
+  "efae765f7537164f": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Norton Shores, MI",
+    "geo": {
+      "bbox": [
+        -86.320001,
+        43.117747,
+        -86.20517,
+        43.206059
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "efae765f7537164f",
+    "name": null,
+    "place_type": "city"
+  },
+  "f136163002bd51f6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Mansfield, OH",
+    "geo": {
+      "bbox": [
+        -82.572489,
+        40.681009,
+        -82.378653,
+        40.815657
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f136163002bd51f6",
+    "name": null,
+    "place_type": "city"
+  },
+  "f2390622c570faf1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Carson City, NV",
+    "geo": {
+      "bbox": [
+        -119.814173,
+        39.08497,
+        -119.670954,
+        39.216676
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f2390622c570faf1",
+    "name": null,
+    "place_type": "city"
+  },
+  "f42a863798156617": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Seattle, WA",
+    "geo": {
+      "bbox": [
+        -122.459696,
+        47.491912,
+        -122.224433,
+        47.734145
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f42a863798156617",
+    "name": null,
+    "place_type": "city"
+  },
+  "f546db03397f6e09": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Glenvar Heights, FL",
+    "geo": {
+      "bbox": [
+        -80.334426,
+        25.690519,
+        -80.292923,
+        25.733912
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f546db03397f6e09",
+    "name": null,
+    "place_type": "city"
+  },
+  "f54a2170ff4b15f7": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Illinois, USA",
+    "geo": {
+      "bbox": [
+        -91.51308,
+        36.970298,
+        -87.019935,
+        42.508303
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f54a2170ff4b15f7",
+    "name": null,
+    "place_type": "admin"
+  },
+  "f6abc2be7eacfe4e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Loma Linda, CA",
+    "geo": {
+      "bbox": [
+        -117.2779324,
+        34.032777,
+        -117.2188429,
+        34.0667247
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f6abc2be7eacfe4e",
+    "name": null,
+    "place_type": "city"
+  },
+  "f6ebc676e5cde864": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Santa Barbara, CA",
+    "geo": {
+      "bbox": [
+        -119.763341,
+        34.395525,
+        -119.639931,
+        34.464245
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f6ebc676e5cde864",
+    "name": null,
+    "place_type": "city"
+  },
+  "f77b0bf942a40070": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Denton, TX",
+    "geo": {
+      "bbox": [
+        -97.187543,
+        33.1289384,
+        -97.041998,
+        33.276053
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f77b0bf942a40070",
+    "name": null,
+    "place_type": "city"
+  },
+  "f7eb2fa2fea288b1": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Lakewood, CO",
+    "geo": {
+      "bbox": [
+        -105.193475,
+        39.60973,
+        -105.053164,
+        39.761974
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f7eb2fa2fea288b1",
+    "name": null,
+    "place_type": "city"
+  },
+  "f8f8ee516109ee0e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Whittier, CA",
+    "geo": {
+      "bbox": [
+        -118.0724243,
+        33.928201,
+        -117.9652874,
+        34.023634
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f8f8ee516109ee0e",
+    "name": null,
+    "place_type": "city"
+  },
+  "f95ca607d76de8c6": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Marcos, TX",
+    "geo": {
+      "bbox": [
+        -97.993537,
+        29.840708,
+        -97.8768464,
+        29.950505
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f95ca607d76de8c6",
+    "name": null,
+    "place_type": "city"
+  },
+  "f97108ab3c4a42ed": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "White Plains, NY",
+    "geo": {
+      "bbox": [
+        -73.78995,
+        40.982445,
+        -73.719524,
+        41.069964
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "f97108ab3c4a42ed",
+    "name": null,
+    "place_type": "city"
+  },
+  "fa8f8f24dc772cc0": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Pompano Beach, FL",
+    "geo": {
+      "bbox": [
+        -80.1955611,
+        26.206136,
+        -80.0817297,
+        26.2976539
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fa8f8f24dc772cc0",
+    "name": null,
+    "place_type": "city"
+  },
+  "fb76b3aa366004c9": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Altadena, CA",
+    "geo": {
+      "bbox": [
+        -118.1772963,
+        34.167539,
+        -118.095091,
+        34.220078
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fb76b3aa366004c9",
+    "name": null,
+    "place_type": "city"
+  },
+  "fbd6d2f5a4e4a15e": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "California, USA",
+    "geo": {
+      "bbox": [
+        -124.482003,
+        32.528832,
+        -114.131212,
+        42.009519
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fbd6d2f5a4e4a15e",
+    "name": null,
+    "place_type": "admin"
+  },
+  "fe52af1ec31cb540": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Haverhill, MA",
+    "geo": {
+      "bbox": [
+        -71.1823619,
+        42.734289,
+        -71.000439,
+        42.827267
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fe52af1ec31cb540",
+    "name": null,
+    "place_type": "city"
+  },
+  "fe6267019d9aab1c": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Roeland Park, KS",
+    "geo": {
+      "bbox": [
+        -94.650516,
+        39.023765,
+        -94.621197,
+        39.044116
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fe6267019d9aab1c",
+    "name": null,
+    "place_type": "city"
+  },
+  "fedbd9fc207aae2a": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "San Bernardino, CA",
+    "geo": {
+      "bbox": [
+        -117.401199,
+        34.0503113,
+        -117.1869926,
+        34.219539
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fedbd9fc207aae2a",
+    "name": null,
+    "place_type": "city"
+  },
+  "fee8047a46fbdfc8": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Vinings, GA",
+    "geo": {
+      "bbox": [
+        -84.487242,
+        33.841705,
+        -84.4542161,
+        33.8811
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fee8047a46fbdfc8",
+    "name": null,
+    "place_type": "city"
+  },
+  "fef01a8cb0eacb64": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Akron, OH",
+    "geo": {
+      "bbox": [
+        -81.628444,
+        40.995137,
+        -81.405059,
+        41.166618
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fef01a8cb0eacb64",
+    "name": null,
+    "place_type": "city"
+  },
+  "fff1c66a88b63f36": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Brookside, DE",
+    "geo": {
+      "bbox": [
+        -75.7370232,
+        39.6486936,
+        -75.6958005,
+        39.6858166
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "fff1c66a88b63f36",
+    "name": null,
+    "place_type": "city"
+  }
+}
