@@ -1728,25 +1728,6 @@
     "name": null,
     "place_type": "city"
   },
-  "077e6b03695c28ee": {
-    "contained_within": [],
-    "country": null,
-    "country_code": null,
-    "full_name": "Falls Church, VA",
-    "geo": {
-      "bbox": [
-        -77.19419,
-        38.8722664,
-        -77.149803,
-        38.8962963
-      ],
-      "properties": {},
-      "type": "Feature"
-    },
-    "id": "077e6b03695c28ee",
-    "name": null,
-    "place_type": "city"
-  },
   "078d435993ff02ed": {
     "contained_within": [],
     "country": null,
@@ -10389,25 +10370,6 @@
       "type": "Feature"
     },
     "id": "e4a0d228eb6be76b",
-    "name": null,
-    "place_type": "city"
-  },
-  "e4a530922c11f226": {
-    "contained_within": [],
-    "country": null,
-    "country_code": null,
-    "full_name": "Richmond Heights, MO",
-    "geo": {
-      "bbox": [
-        -90.3623212,
-        38.618724,
-        -90.306259,
-        38.641146
-      ],
-      "properties": {},
-      "type": "Feature"
-    },
-    "id": "e4a530922c11f226",
     "name": null,
     "place_type": "city"
   },
