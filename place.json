@@ -10373,6 +10373,25 @@
     "name": null,
     "place_type": "city"
   },
+  "e4a530922c11f226": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Richmond Heights, MO",
+    "geo": {
+      "bbox": [
+        -90.3623212,
+        38.618724,
+        -90.306259,
+        38.641146
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "e4a530922c11f226",
+    "name": null,
+    "place_type": "city"
+  },
   "e4f5e6a715f4c8cd": {
     "contained_within": [],
     "country": null,

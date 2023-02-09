@@ -3213,10 +3213,10 @@
     "promoted_metrics": null,
     "public_metrics": {
       "impression_count": 0,
-      "like_count": 35,
+      "like_count": 33,
       "quote_count": 0,
       "reply_count": 1,
-      "retweet_count": 9
+      "retweet_count": 8
     },
     "referenced_tweets": null,
     "reply_settings": null,
@@ -4252,31 +4252,6 @@
     "reply_settings": null,
     "source": null,
     "text": "Participating in this sounds like torture. I wonder if inducing sleep during early stage #Alzheimers could help slow disease progression? #pubhealth #TMtmDailyBuzz https://t.co/8BeZZUHZLs",
-    "withheld": null
-  },
-  "986358662963773440": {
-    "author_id": 34720309,
-    "context_annotations": [],
-    "conversation_id": null,
-    "entities": null,
-    "id": 986358662963773440,
-    "in_reply_to_user_id": null,
-    "lang": null,
-    "non_public_metrics": null,
-    "organic_metrics": null,
-    "possibly_sensitive": null,
-    "promoted_metrics": null,
-    "public_metrics": {
-      "impression_count": 0,
-      "like_count": 0,
-      "quote_count": 0,
-      "reply_count": 0,
-      "retweet_count": 0
-    },
-    "referenced_tweets": null,
-    "reply_settings": null,
-    "source": null,
-    "text": "So...@NPR Our condolences to You and Yours. Check out this article from USA TODAY:\n\nNPR's Carl Kasell dies at 84 following complications from Alzheimer's disease\n\nhttps://t.co/jnLy8QhZoQ",
     "withheld": null
   },
   "986366714425282560": {
@@ -13329,6 +13304,31 @@
     "text": "Bridging the gap between Alzheimer\u2019s disease and type II diabetes  https://t.co/zAH5d8GDkj #artstract https://t.co/Pqu1mD7oS7",
     "withheld": null
   },
+  "1055770446795337729": {
+    "author_id": 240828543,
+    "context_annotations": [],
+    "conversation_id": null,
+    "entities": null,
+    "id": 1055770446795337729,
+    "in_reply_to_user_id": null,
+    "lang": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "possibly_sensitive": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": null,
+    "reply_settings": null,
+    "source": null,
+    "text": "What They Had is an honest and heartfelt look at the full circle effect of Alzheimer\u2019s disease. Expect to see Robert Forster nominated. \n\nMy review for @elizabethchomko\u2019s film via @ksdknews: https://t.co/mlzWUhJHbc",
+    "withheld": null
+  },
   "1055877546686984192": {
     "author_id": 61768027,
     "context_annotations": [],
@@ -16118,7 +16118,7 @@
     "promoted_metrics": null,
     "public_metrics": {
       "impression_count": 0,
-      "like_count": 2239,
+      "like_count": 2238,
       "quote_count": 156,
       "reply_count": 36,
       "retweet_count": 953
@@ -30396,7 +30396,7 @@
       "like_count": 319,
       "quote_count": 20,
       "reply_count": 14,
-      "retweet_count": 91
+      "retweet_count": 90
     },
     "referenced_tweets": null,
     "reply_settings": null,
@@ -32818,7 +32818,7 @@
     "promoted_metrics": null,
     "public_metrics": {
       "impression_count": 0,
-      "like_count": 14,
+      "like_count": 13,
       "quote_count": 0,
       "reply_count": 0,
       "retweet_count": 4
