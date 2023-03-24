@@ -10,10 +10,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 42895,
-      "following_count": 22734,
-      "listed_count": 3262,
-      "tweet_count": 238264
+      "followers_count": 42878,
+      "following_count": 22816,
+      "listed_count": 3260,
+      "tweet_count": 238671
     },
     "url": null,
     "username": "chrisabraham",
@@ -31,10 +31,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 432,
-      "following_count": 428,
+      "followers_count": 434,
+      "following_count": 430,
       "listed_count": 14,
-      "tweet_count": 2913
+      "tweet_count": 2923
     },
     "url": null,
     "username": "daveandrus",
@@ -52,13 +52,34 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 6361,
-      "following_count": 2653,
-      "listed_count": 137,
-      "tweet_count": 17344
+      "followers_count": 6358,
+      "following_count": 2656,
+      "listed_count": 136,
+      "tweet_count": 17380
     },
     "url": null,
     "username": "jayprasuhn",
+    "verified": null,
+    "withheld": null
+  },
+  "15755776": {
+    "created_at": null,
+    "description": "\ud83c\uddfa\ud83c\uddf8Citizen. 2001 UCF Knight https://t.co/tSvLPj7jGw\ud83d\udde1 Plerify. US Patent.Ed.D Dissertation archived in US Library of Congress 2001.Libraries \ud83c\udf0f",
+    "entities": null,
+    "id": 15755776,
+    "location": "Manhattan, NY",
+    "name": "\ud83d\udd4a\ufe0fDrMariaLornaA.KunnathEdD\ud83c\udf93MEngg\ud83c\udf93BS.IndEngg\ud83c\udf93",
+    "pinned_tweet_id": null,
+    "profile_image_url": null,
+    "protected": null,
+    "public_metrics": {
+      "followers_count": 9091,
+      "following_count": 764,
+      "listed_count": 7,
+      "tweet_count": 19520
+    },
+    "url": null,
+    "username": "mlkunnath",
     "verified": null,
     "withheld": null
   },
@@ -73,10 +94,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 7875,
-      "following_count": 7017,
+      "followers_count": 7870,
+      "following_count": 7016,
       "listed_count": 333,
-      "tweet_count": 85886
+      "tweet_count": 85896
     },
     "url": null,
     "username": "CBoomerVazquez",
@@ -94,10 +115,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2707,
-      "following_count": 3404,
-      "listed_count": 114,
-      "tweet_count": 20279
+      "followers_count": 2725,
+      "following_count": 3435,
+      "listed_count": 113,
+      "tweet_count": 20554
     },
     "url": null,
     "username": "leaferi",
@@ -115,10 +136,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2261,
-      "following_count": 4989,
+      "followers_count": 2252,
+      "following_count": 4986,
       "listed_count": 2,
-      "tweet_count": 7724
+      "tweet_count": 7763
     },
     "url": null,
     "username": "San_Carlos_Rob",
@@ -136,10 +157,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2371,
-      "following_count": 4930,
+      "followers_count": 2369,
+      "following_count": 4928,
       "listed_count": 137,
-      "tweet_count": 55733
+      "tweet_count": 55734
     },
     "url": null,
     "username": "lukobe",
@@ -157,10 +178,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1265,
+      "followers_count": 1264,
       "following_count": 1337,
-      "listed_count": 147,
-      "tweet_count": 28807
+      "listed_count": 146,
+      "tweet_count": 28808
     },
     "url": null,
     "username": "karybeck",
@@ -179,9 +200,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 204,
-      "following_count": 782,
+      "following_count": 785,
       "listed_count": 11,
-      "tweet_count": 14165
+      "tweet_count": 14245
     },
     "url": null,
     "username": "TheLaughingOne",
@@ -199,10 +220,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 5311,
-      "following_count": 5293,
+      "followers_count": 5326,
+      "following_count": 5302,
       "listed_count": 20,
-      "tweet_count": 58664
+      "tweet_count": 58889
     },
     "url": null,
     "username": "soleilbrille18",
@@ -221,9 +242,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 14,
-      "following_count": 305,
+      "following_count": 306,
       "listed_count": 0,
-      "tweet_count": 2514
+      "tweet_count": 2524
     },
     "url": null,
     "username": "jrrealitychecks",
@@ -241,10 +262,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1247,
-      "following_count": 862,
+      "followers_count": 1246,
+      "following_count": 869,
       "listed_count": 23,
-      "tweet_count": 75289
+      "tweet_count": 75421
     },
     "url": null,
     "username": "Shoelaceyy",
@@ -262,10 +283,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1258,
+      "followers_count": 1257,
       "following_count": 5003,
       "listed_count": 23,
-      "tweet_count": 51898
+      "tweet_count": 52095
     },
     "url": null,
     "username": "JamesPhipps",
@@ -283,10 +304,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2468,
-      "following_count": 4999,
+      "followers_count": 2467,
+      "following_count": 4997,
       "listed_count": 29,
-      "tweet_count": 71454
+      "tweet_count": 71468
     },
     "url": null,
     "username": "dhessex007",
@@ -305,9 +326,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 284,
-      "following_count": 786,
+      "following_count": 785,
       "listed_count": 3,
-      "tweet_count": 23044
+      "tweet_count": 23063
     },
     "url": null,
     "username": "CSmith4535",
@@ -325,10 +346,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 870,
-      "following_count": 758,
+      "followers_count": 869,
+      "following_count": 761,
       "listed_count": 7,
-      "tweet_count": 40024
+      "tweet_count": 40150
     },
     "url": null,
     "username": "ElJefePR70",
@@ -346,10 +367,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 763,
-      "following_count": 224,
+      "followers_count": 764,
+      "following_count": 226,
       "listed_count": 0,
-      "tweet_count": 23594
+      "tweet_count": 23709
     },
     "url": null,
     "username": "WrldWideTravelr",
@@ -367,10 +388,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 451,
-      "following_count": 435,
+      "followers_count": 450,
+      "following_count": 437,
       "listed_count": 8,
-      "tweet_count": 14227
+      "tweet_count": 14284
     },
     "url": null,
     "username": "N_Ala_BamaGrad",
@@ -388,10 +409,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1001,
-      "following_count": 2460,
+      "followers_count": 1005,
+      "following_count": 2477,
       "listed_count": 12,
-      "tweet_count": 8507
+      "tweet_count": 8567
     },
     "url": null,
     "username": "agawamrick",
@@ -409,10 +430,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 3096,
-      "following_count": 4995,
+      "followers_count": 3097,
+      "following_count": 4997,
       "listed_count": 111,
-      "tweet_count": 233930
+      "tweet_count": 234175
     },
     "url": null,
     "username": "Dsquared75",
@@ -430,10 +451,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1390,
-      "following_count": 3971,
-      "listed_count": 12,
-      "tweet_count": 91812
+      "followers_count": 1400,
+      "following_count": 4003,
+      "listed_count": 13,
+      "tweet_count": 92097
     },
     "url": null,
     "username": "inkjetblue",
@@ -442,19 +463,19 @@
   },
   "261019225": {
     "created_at": null,
-    "description": "Librarian | Elder Millennial | Okie | Recovering Mil-Spouse | She/Her #BLM #ProAbortion #gopokes #chiefskingdom",
+    "description": "Librarian | Elder Millennial | Okie | Ban Fascists Not Books | She/Her #BLM #ProAbortion #gopokes #chiefskingdom",
     "entities": null,
     "id": 261019225,
     "location": null,
-    "name": "\ud83c\udf40I've lived a thousand lives\ud83c\udf40",
+    "name": "\ud83d\udcd6 I've lived a thousand lives",
     "pinned_tweet_id": null,
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 478,
-      "following_count": 1668,
+      "followers_count": 477,
+      "following_count": 1670,
       "listed_count": 7,
-      "tweet_count": 13118
+      "tweet_count": 13152
     },
     "url": null,
     "username": "1000LivesSara",
@@ -472,8 +493,8 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2925,
-      "following_count": 3306,
+      "followers_count": 2922,
+      "following_count": 3303,
       "listed_count": 28,
       "tweet_count": 1293
     },
@@ -496,7 +517,7 @@
       "followers_count": 96,
       "following_count": 485,
       "listed_count": 2,
-      "tweet_count": 43521
+      "tweet_count": 43543
     },
     "url": null,
     "username": "SeanErnst",
@@ -515,9 +536,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 1360,
-      "following_count": 3036,
+      "following_count": 3044,
       "listed_count": 2,
-      "tweet_count": 13421
+      "tweet_count": 13446
     },
     "url": null,
     "username": "Justician2",
@@ -535,10 +556,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 268,
-      "following_count": 1804,
+      "followers_count": 271,
+      "following_count": 1803,
       "listed_count": 6,
-      "tweet_count": 7155
+      "tweet_count": 7180
     },
     "url": null,
     "username": "tnice1223",
@@ -556,10 +577,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 19977,
-      "following_count": 66,
+      "followers_count": 19975,
+      "following_count": 68,
       "listed_count": 68,
-      "tweet_count": 3248
+      "tweet_count": 3258
     },
     "url": null,
     "username": "gvfarah",
@@ -577,10 +598,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 891,
+      "followers_count": 892,
       "following_count": 1047,
       "listed_count": 22,
-      "tweet_count": 21070
+      "tweet_count": 21081
     },
     "url": null,
     "username": "TripLangley",
@@ -598,10 +619,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 3406,
-      "following_count": 3615,
+      "followers_count": 3404,
+      "following_count": 3619,
       "listed_count": 36,
-      "tweet_count": 36662
+      "tweet_count": 36679
     },
     "url": null,
     "username": "ESmithStevens",
@@ -619,10 +640,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 3660,
-      "following_count": 658,
-      "listed_count": 32,
-      "tweet_count": 7306
+      "followers_count": 3663,
+      "following_count": 660,
+      "listed_count": 31,
+      "tweet_count": 7338
     },
     "url": null,
     "username": "BarryLHouser",
@@ -640,10 +661,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 197,
-      "following_count": 351,
+      "followers_count": 200,
+      "following_count": 356,
       "listed_count": 2,
-      "tweet_count": 3624
+      "tweet_count": 3634
     },
     "url": null,
     "username": "skibeez92",
@@ -662,9 +683,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 431,
-      "following_count": 1286,
-      "listed_count": 10,
-      "tweet_count": 23729
+      "following_count": 1287,
+      "listed_count": 7,
+      "tweet_count": 24052
     },
     "url": null,
     "username": "___Inge_borg",
@@ -682,10 +703,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2846,
-      "following_count": 5006,
+      "followers_count": 2848,
+      "following_count": 4984,
       "listed_count": 54,
-      "tweet_count": 22088
+      "tweet_count": 22178
     },
     "url": null,
     "username": "TaNaishaJ",
@@ -703,10 +724,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 6948,
-      "following_count": 4183,
+      "followers_count": 6966,
+      "following_count": 4197,
       "listed_count": 66,
-      "tweet_count": 58735
+      "tweet_count": 59067
     },
     "url": null,
     "username": "katiewr31413491",
@@ -725,9 +746,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 298,
-      "following_count": 635,
+      "following_count": 636,
       "listed_count": 6,
-      "tweet_count": 19210
+      "tweet_count": 19271
     },
     "url": null,
     "username": "Bfarrell73",
@@ -746,9 +767,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 444,
-      "following_count": 748,
+      "following_count": 749,
       "listed_count": 0,
-      "tweet_count": 7483
+      "tweet_count": 7505
     },
     "url": null,
     "username": "MLovell55",
@@ -766,10 +787,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 6857,
-      "following_count": 7523,
+      "followers_count": 6861,
+      "following_count": 7541,
       "listed_count": 31,
-      "tweet_count": 205153
+      "tweet_count": 205360
     },
     "url": null,
     "username": "LavelleGerald",
@@ -787,10 +808,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 546,
-      "following_count": 773,
+      "followers_count": 545,
+      "following_count": 775,
       "listed_count": 3,
-      "tweet_count": 363
+      "tweet_count": 366
     },
     "url": null,
     "username": "FriesGabriel",
@@ -808,10 +829,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 5991,
-      "following_count": 1777,
+      "followers_count": 6041,
+      "following_count": 1778,
       "listed_count": 72,
-      "tweet_count": 72791
+      "tweet_count": 72933
     },
     "url": null,
     "username": "dsgolson",
@@ -829,10 +850,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 49,
-      "following_count": 212,
+      "followers_count": 48,
+      "following_count": 215,
       "listed_count": 1,
-      "tweet_count": 454
+      "tweet_count": 455
     },
     "url": null,
     "username": "wildflawyer",
@@ -850,10 +871,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 741,
-      "following_count": 1314,
+      "followers_count": 745,
+      "following_count": 1321,
       "listed_count": 12,
-      "tweet_count": 45202
+      "tweet_count": 45622
     },
     "url": null,
     "username": "juli_bg_bs",
@@ -871,10 +892,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1582,
-      "following_count": 3077,
+      "followers_count": 1589,
+      "following_count": 3091,
       "listed_count": 35,
-      "tweet_count": 68752
+      "tweet_count": 69175
     },
     "url": null,
     "username": "rdknowles2010",
@@ -892,8 +913,8 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 86,
-      "following_count": 567,
+      "followers_count": 83,
+      "following_count": 565,
       "listed_count": 1,
       "tweet_count": 3694
     },
@@ -913,10 +934,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 475,
-      "following_count": 332,
+      "followers_count": 478,
+      "following_count": 334,
       "listed_count": 19,
-      "tweet_count": 5961
+      "tweet_count": 5978
     },
     "url": null,
     "username": "merrill_wyatt",
@@ -955,10 +976,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1656,
-      "following_count": 1125,
+      "followers_count": 1710,
+      "following_count": 1133,
       "listed_count": 7,
-      "tweet_count": 32578
+      "tweet_count": 32734
     },
     "url": null,
     "username": "s_considine1",
@@ -976,10 +997,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 47325,
-      "following_count": 977,
-      "listed_count": 230,
-      "tweet_count": 12777
+      "followers_count": 47147,
+      "following_count": 999,
+      "listed_count": 237,
+      "tweet_count": 9097
     },
     "url": null,
     "username": "buttonslives",
@@ -997,10 +1018,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 129,
+      "followers_count": 130,
       "following_count": 30,
       "listed_count": 2,
-      "tweet_count": 9189
+      "tweet_count": 9301
     },
     "url": null,
     "username": "TLVersteegh",
@@ -1018,10 +1039,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 98,
+      "followers_count": 99,
       "following_count": 1398,
       "listed_count": 0,
-      "tweet_count": 4116
+      "tweet_count": 4128
     },
     "url": null,
     "username": "YQuidnunc",
@@ -1039,10 +1060,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 8504,
-      "following_count": 879,
-      "listed_count": 43,
-      "tweet_count": 199990
+      "followers_count": 8553,
+      "following_count": 881,
+      "listed_count": 45,
+      "tweet_count": 200798
     },
     "url": null,
     "username": "DrWinarick",
@@ -1060,10 +1081,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 451,
-      "following_count": 495,
+      "followers_count": 452,
+      "following_count": 490,
       "listed_count": 1,
-      "tweet_count": 96186
+      "tweet_count": 96341
     },
     "url": null,
     "username": "xLAWx_",
@@ -1081,10 +1102,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 814,
-      "following_count": 1859,
+      "followers_count": 815,
+      "following_count": 1861,
       "listed_count": 1,
-      "tweet_count": 107471
+      "tweet_count": 107853
     },
     "url": null,
     "username": "AngeliqueGammon",
@@ -1102,10 +1123,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2889,
-      "following_count": 4998,
+      "followers_count": 2894,
+      "following_count": 4999,
       "listed_count": 11,
-      "tweet_count": 182833
+      "tweet_count": 183411
     },
     "url": null,
     "username": "MColetteK",
@@ -1123,8 +1144,8 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 716,
-      "following_count": 364,
+      "followers_count": 715,
+      "following_count": 363,
       "listed_count": 4,
       "tweet_count": 426
     },
@@ -1135,7 +1156,7 @@
   },
   "1131667282940219392": {
     "created_at": null,
-    "description": "yeeeoooo",
+    "description": "yeeeoooo | C\u2019s up baby!! (Celtics fan not a crip (as far as I know))",
     "entities": null,
     "id": 1131667282940219392,
     "location": "Homewood, AL",
@@ -1144,10 +1165,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 136,
+      "followers_count": 137,
       "following_count": 236,
       "listed_count": 0,
-      "tweet_count": 767
+      "tweet_count": 771
     },
     "url": null,
     "username": "GdaBabe7",
@@ -1165,10 +1186,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 414,
-      "following_count": 3141,
+      "followers_count": 416,
+      "following_count": 3178,
       "listed_count": 1,
-      "tweet_count": 36822
+      "tweet_count": 37158
     },
     "url": null,
     "username": "gregstayeating",
@@ -1186,10 +1207,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1639,
-      "following_count": 3953,
+      "followers_count": 1645,
+      "following_count": 3993,
       "listed_count": 1,
-      "tweet_count": 13570
+      "tweet_count": 13624
     },
     "url": null,
     "username": "VickiEngel11",
@@ -1207,10 +1228,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 2080,
+      "followers_count": 2075,
       "following_count": 445,
       "listed_count": 12,
-      "tweet_count": 821
+      "tweet_count": 827
     },
     "url": null,
     "username": "EnrichingDOcBX",
@@ -1228,10 +1249,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 3411,
-      "following_count": 5008,
+      "followers_count": 3405,
+      "following_count": 4998,
       "listed_count": 0,
-      "tweet_count": 27869
+      "tweet_count": 27918
     },
     "url": null,
     "username": "wokea55deadhead",
@@ -1249,10 +1270,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 189,
-      "following_count": 245,
-      "listed_count": 3,
-      "tweet_count": 25980
+      "followers_count": 198,
+      "following_count": 246,
+      "listed_count": 1,
+      "tweet_count": 26767
     },
     "url": null,
     "username": "MrGreen96385653",
@@ -1270,10 +1291,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 271,
+      "followers_count": 274,
       "following_count": 909,
       "listed_count": 1,
-      "tweet_count": 1813
+      "tweet_count": 1818
     },
     "url": null,
     "username": "EsqShields",
@@ -1291,10 +1312,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1219,
-      "following_count": 996,
+      "followers_count": 1217,
+      "following_count": 992,
       "listed_count": 5,
-      "tweet_count": 23718
+      "tweet_count": 23721
     },
     "url": null,
     "username": "IandroidL",
@@ -1303,7 +1324,7 @@
   },
   "1424071266412240896": {
     "created_at": null,
-    "description": "Neuromyelitis Optica Patient Advocate and Ambassador GJCF & Snow Companies",
+    "description": "Neuromyelitis Optica Patient Advocate and Ambassador GJCF , Health Union & Snow Companies",
     "entities": null,
     "id": 1424071266412240896,
     "location": "Delray Beach, FL",
@@ -1313,9 +1334,9 @@
     "protected": null,
     "public_metrics": {
       "followers_count": 92,
-      "following_count": 350,
+      "following_count": 351,
       "listed_count": 0,
-      "tweet_count": 1258
+      "tweet_count": 1259
     },
     "url": null,
     "username": "adda_sandra",
@@ -1333,10 +1354,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 3,
+      "followers_count": 4,
       "following_count": 25,
       "listed_count": 0,
-      "tweet_count": 8449
+      "tweet_count": 8474
     },
     "url": null,
     "username": "JeffreyGeorgeR1",
@@ -1345,19 +1366,19 @@
   },
   "1459918638325116928": {
     "created_at": null,
-    "description": "This is prophecy. This is the continuation of the Quran. The Holy Dnostic. I am Prophet Filip, I am a ARCANGEL, the second coming of Christ.",
+    "description": "This is prophecy. This is the continuation of the Quran. The Holy Dnostic. I am a ARCANGEL, the second coming of Christ. Master of forces.",
     "entities": null,
     "id": 1459918638325116928,
     "location": "Houston, TX",
-    "name": "Creator Filip Christ",
+    "name": "Creator Filip",
     "pinned_tweet_id": null,
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 14,
-      "following_count": 2,
+      "followers_count": 0,
+      "following_count": 4,
       "listed_count": 0,
-      "tweet_count": 8580
+      "tweet_count": 8796
     },
     "url": null,
     "username": "nmg6cgw2vv",
@@ -1366,19 +1387,19 @@
   },
   "1472659024696909825": {
     "created_at": null,
-    "description": "Ready to do what it takes to live life to the fullest!",
+    "description": "",
     "entities": null,
     "id": 1472659024696909825,
     "location": "Los Angeles, CA",
-    "name": "Tony Van Meeteren",
+    "name": "TonyV",
     "pinned_tweet_id": null,
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 4,
+      "followers_count": 3,
       "following_count": 9,
       "listed_count": 0,
-      "tweet_count": 62
+      "tweet_count": 63
     },
     "url": null,
     "username": "TonyVanMeeteren",
@@ -1396,10 +1417,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 14,
+      "followers_count": 15,
       "following_count": 127,
       "listed_count": 0,
-      "tweet_count": 960
+      "tweet_count": 1023
     },
     "url": null,
     "username": "RichardHoller12",
@@ -1459,10 +1480,10 @@
     "profile_image_url": null,
     "protected": null,
     "public_metrics": {
-      "followers_count": 1568,
-      "following_count": 4209,
+      "followers_count": 1594,
+      "following_count": 4235,
       "listed_count": 2,
-      "tweet_count": 12243
+      "tweet_count": 12338
     },
     "url": null,
     "username": "Scienceisacult",

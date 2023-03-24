@@ -227,25 +227,6 @@
     "name": null,
     "place_type": "city"
   },
-  "0981582bf9149001": {
-    "contained_within": [],
-    "country": null,
-    "country_code": null,
-    "full_name": "Local Heroes",
-    "geo": {
-      "bbox": [
-        -121.071149,
-        38.897870000000005,
-        -121.071149,
-        38.897870000000005
-      ],
-      "properties": {},
-      "type": "Feature"
-    },
-    "id": "0981582bf9149001",
-    "name": null,
-    "place_type": "poi"
-  },
   "0e662f24a70057f3": {
     "contained_within": [],
     "country": null,
@@ -319,6 +300,25 @@
       "type": "Feature"
     },
     "id": "1927193c57f35d51",
+    "name": null,
+    "place_type": "city"
+  },
+  "1994142e26ba7127": {
+    "contained_within": [],
+    "country": null,
+    "country_code": null,
+    "full_name": "Davis, CA",
+    "geo": {
+      "bbox": [
+        -121.803252,
+        38.526843,
+        -121.675074,
+        38.590264
+      ],
+      "properties": {},
+      "type": "Feature"
+    },
+    "id": "1994142e26ba7127",
     "name": null,
     "place_type": "city"
   },
