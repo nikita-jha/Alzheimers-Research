@@ -113,7 +113,7 @@
     "promoted_metrics": null,
     "public_metrics": {
       "impression_count": 0,
-      "like_count": 2,
+      "like_count": 1,
       "quote_count": 0,
       "reply_count": 1,
       "retweet_count": 0
@@ -1862,7 +1862,7 @@
     "possibly_sensitive": null,
     "promoted_metrics": null,
     "public_metrics": {
-      "impression_count": 163,
+      "impression_count": 165,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 1,
